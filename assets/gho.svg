@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" fill="none">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{opacity:0.8;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="128" y1="258" x2="128" y2="2" gradientTransform="matrix(1 0 0 -1 0 258)">
+	<stop offset="0" style="stop-color:#B3B2D3"/>
+	<stop offset="0.526" style="stop-color:#8C8ADA"/>
+	<stop offset="1" style="stop-color:#6D69DE"/>
+</linearGradient>
+
+<g transform="matrix(2.34375,0,0,2.34375,0,0)">
+<path class="st0" d="M128,0L128,0c70.7,0,128,57.3,128,128l0,0c0,70.7-57.3,128-128,128l0,0C57.3,256,0,198.7,0,128l0,0  C0,57.3,57.3,0,128,0z"/>
+<g class="st1">
+	<path class="st2" d="M199.6,190.3v-25.4l-0.1,0L182,124.6h-28l16.6,39.4h-54.1c-10.4,0-20.3-4.1-27.7-11.6   c-7.5-7.5-11.6-17.3-11.6-27.8s4.1-20.3,11.6-27.8c7.4-7.5,17.3-11.6,27.7-11.6l51.6-0.1l-10.9-26.3L116.5,59   c-36.1,0-66.8,29.4-66.8,65.7s30.7,65.7,66.8,65.7H199.6L199.6,190.3z M112.1,121.1c7.2,0,13.1-5.9,13.1-13.1s-5.9-13.1-13.1-13.1   S99,100.7,99,108S104.9,121.1,112.1,121.1z M125.2,141.7c0,7.3-5.9,13.1-13.1,13.1S99,149,99,141.7c0-7.3,5.9-13.1,13.1-13.1   S125.2,134.5,125.2,141.7z"/>
+</g>
+</g>
+</svg>

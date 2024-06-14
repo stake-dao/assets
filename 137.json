@@ -1,0 +1,123 @@
+[
+  {
+    "id": "matic",
+    "name": "MATIC",
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "/assets/matic.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "dai",
+    "name": "(PoS) Dai Stablecoin",
+    "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "/assets/dai.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usdc",
+    "name": "USD Coin (PoS)",
+    "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "/assets/usdc.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usdt",
+    "name": "(PoS) Tether USD",
+    "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "/assets/usdt.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "amdai",
+    "name": "Aave Matic Market DAI",
+    "address": "0x27F8D03b3a2196956ED754baDc28D73be8830A6e",
+    "symbol": "amDAI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "/assets/dai.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "amusdc",
+    "name": "Aave Matic Market USDC",
+    "address": "0x1a13F4Ca1d028320A707D99520AbFefca3998b7F",
+    "symbol": "amUSDC",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "/assets/usdc.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "amusdt",
+    "name": "Aave Matic Market USDT",
+    "address": "0x60D55F02A771d515e077c9C2403a1ef324885CeC",
+    "symbol": "amUSDT",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "/assets/usdt.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "eura",
+    "name": "EURA",
+    "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+    "symbol": "EURA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "/assets/eura.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "angle",
+    "name": "ANGLE",
+    "address": "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1",
+    "symbol": "ANGLE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "/assets/angle.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "asdcrv",
+    "name": "asdCRV",
+    "address": "0x75289388d50364c3013583d97bd70ced0e183e32",
+    "symbol": "asdCRV",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "/assets/sdcrv.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "vsdcrv",
+    "name": "vsdCRV",
+    "address": "0x62d5a59E0d67c0381aAd53B201B4A1B8Dcd2C833",
+    "symbol": "vsdCRV",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "/assets/sdcrv.svg",
+    "tags": [],
+    "extensions": { "oftVersion": 2 }
+  }
+]

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" fill="none">
+	<style xmlns="http://www.w3.org/2000/svg" type="text/css">
+		.st1{fill:none;stroke:#F5C09A;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	</style>
+	<path d="M300 600C465.685 600 600 465.685 600 300C600 134.315 465.685 0 300 0C134.315 0 0 134.315 0 300C0 465.685 134.315 600 300 600Z" fill="url(#paint0_radial_440_37)" />
+	<g transform="matrix(1.2,0,0,1.2,105,103)">
+		<circle class="st1" cx="160.6" cy="162" r="148.8" />
+		<line class="st1" x1="160.6" y1="205" x2="160.6" y2="310.8" />
+		<line class="st1" x1="160.6" y1="13.2" x2="160.6" y2="44.5" />
+		<g>
+			<polyline class="st1" points="160.6,205 59.2,124.8 160.6,44.5 262,124.8 216.7,160.6    " />
+			<polyline class="st1" points="246.4,212.1 262,199.7 262,124.8    " />
+			<polyline class="st1" points="59.2,124.8 59.2,199.7 160.6,280 206.4,243.8    " />
+		</g>
+		<g>
+			<polyline class="st1" points="77,213.8 59.7,243.8 114.9,243.8    " />
+			<polyline class="st1" points="160.6,243.8 261.5,243.8 160.6,69 107.9,160.4    " />
+		</g>
+	</g>
+	<defs>
+		<radialGradient id="paint0_radial_440_37" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(196 143.5) rotate(54.1675) scale(497.082)">
+			<stop stop-color="#323638" />
+			<stop offset="1" stop-color="#10151d" />
+		</radialGradient>
+	</defs>
+</svg>

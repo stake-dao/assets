@@ -1,0 +1,13 @@
+[
+  {
+    "id": "sdmav",
+    "name": "Stake DAO MAV",
+    "address": "0x8E6d4c0088b5B41BdDb126f355Ef278Ac5B5974C",
+    "symbol": "sdMAV",
+    "decimals": 18,
+    "chainId": 324,
+    "logoURI": "/assets/sdmav.svg",
+    "tags": ["sd-token"],
+    "extensions": { "underlying": "mav" }
+  }
+]

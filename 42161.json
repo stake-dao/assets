@@ -1,0 +1,145 @@
+[
+  {
+    "id": "arb",
+    "name": "Arbitrum",
+    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "symbol": "ARB",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/arb.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "crv",
+    "name": "Curve DAO Token",
+    "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+    "symbol": "CRV",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/crv.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "frax",
+    "name": "Frax",
+    "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/frax.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usdce",
+    "name": "USD Coin (Arb1)",
+    "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "chainId": 42161,
+    "logoURI": "/assets/usdc.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usdc",
+    "name": "USD Coin",
+    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 42161,
+    "logoURI": "/assets/usdc.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "crvusd",
+    "name": "Curve.Fi USD Stablecoin",
+    "address": "0x498Bf2B1e120FeD3ad3D42EA2165E9b73f99C1e5",
+    "symbol": "crvUSD",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/crvusd.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usdt",
+    "name": "Tether USD",
+    "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 42161,
+    "logoURI": "/assets/usdt.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "eurs",
+    "name": "STASIS EURS Token",
+    "address": "0xD22a58f79e9481D1a88e00c343885A588b34b68B",
+    "symbol": "EURS",
+    "decimals": 2,
+    "chainId": 42161,
+    "logoURI": "/assets/eurs.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "wbtc",
+    "name": "Wrapped BTC",
+    "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 42161,
+    "logoURI": "/assets/wbtc.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "weth",
+    "name": "Wrapped Ether",
+    "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/weth.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "asdcrv",
+    "name": "asdCRV",
+    "address": "0x75289388d50364c3013583d97bd70cED0e183e32",
+    "symbol": "asdCRV",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/sdcrv.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "vsdcrv",
+    "name": "vsdCRV",
+    "address": "0x62d5a59E0d67c0381aAd53B201B4A1B8Dcd2C833",
+    "symbol": "vsdCRV",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/sdcrv.svg",
+    "tags": [],
+    "extensions": { "oftVersion": 2 }
+  },
+  {
+    "id": "fxs",
+    "name": "Frax Share",
+    "address": "0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7",
+    "symbol": "FXS",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/fxs.svg",
+    "tags": [],
+    "extensions": {}
+  }
+]
