@@ -6,7 +6,7 @@
     "symbol": "ARB",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0x912ce59144191c1204e64559fe8253a0e49e6548.svg",
+    "logoURI": "/assets/42161/0x912ce59144191c1204e64559fe8253a0e49e6548.svg",
     "tags": [],
     "extensions": {}
   },
@@ -17,7 +17,7 @@
     "symbol": "CRV",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0x11cdb42b0eb46d95f990bedd4695a6e3fa034978.svg",
+    "logoURI": "/assets/42161/0x11cdb42b0eb46d95f990bedd4695a6e3fa034978.svg",
     "tags": [],
     "extensions": {}
   },
@@ -28,7 +28,7 @@
     "symbol": "FRAX",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0x17fc002b466eec40dae837fc4be5c67993ddbd6f.svg",
+    "logoURI": "/assets/42161/0x17fc002b466eec40dae837fc4be5c67993ddbd6f.svg",
     "tags": [],
     "extensions": {}
   },
@@ -39,7 +39,7 @@
     "symbol": "USDC.e",
     "decimals": 6,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.svg",
+    "logoURI": "/assets/42161/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.svg",
     "tags": [],
     "extensions": {}
   },
@@ -50,7 +50,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0xaf88d065e77c8cc2239327c5edb3a432268e5831.svg",
+    "logoURI": "/assets/42161/0xaf88d065e77c8cc2239327c5edb3a432268e5831.svg",
     "tags": [],
     "extensions": {}
   },
@@ -61,7 +61,7 @@
     "symbol": "crvUSD",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5.svg",
+    "logoURI": "/assets/42161/0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5.svg",
     "tags": [],
     "extensions": {}
   },
@@ -72,7 +72,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.svg",
+    "logoURI": "/assets/42161/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.svg",
     "tags": [],
     "extensions": {}
   },
@@ -83,7 +83,7 @@
     "symbol": "EURS",
     "decimals": 2,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0xd22a58f79e9481d1a88e00c343885a588b34b68b.svg",
+    "logoURI": "/assets/42161/0xd22a58f79e9481d1a88e00c343885a588b34b68b.svg",
     "tags": [],
     "extensions": {}
   },
@@ -94,7 +94,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f.svg",
+    "logoURI": "/assets/42161/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f.svg",
     "tags": [],
     "extensions": {}
   },
@@ -105,7 +105,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.svg",
+    "logoURI": "/assets/42161/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.svg",
     "tags": [],
     "extensions": {}
   },
@@ -116,7 +116,7 @@
     "symbol": "asdCRV",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0x75289388d50364c3013583d97bd70ced0e183e32.svg",
+    "logoURI": "/assets/42161/0x75289388d50364c3013583d97bd70ced0e183e32.svg",
     "tags": [],
     "extensions": {}
   },
@@ -127,7 +127,7 @@
     "symbol": "vsdCRV",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0x62d5a59e0d67c0381aad53b201b4a1b8dcd2c833.svg",
+    "logoURI": "/assets/42161/0x62d5a59e0d67c0381aad53b201b4a1b8dcd2c833.svg",
     "tags": [],
     "extensions": {
       "oftVersion": 2
@@ -140,7 +140,7 @@
     "symbol": "FXS",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7.svg",
+    "logoURI": "/assets/42161/0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7.svg",
     "tags": [],
     "extensions": {}
   },
@@ -151,7 +151,7 @@
     "symbol": "USD+",
     "decimals": 6,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65.svg",
+    "logoURI": "/assets/42161/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65.svg",
     "tags": [],
     "extensions": {}
   },
@@ -162,7 +162,7 @@
     "symbol": "USDT+",
     "decimals": 6,
     "chainId": 42161,
-    "logoURI": "./assets/42161/0xb1084db8d3c05cebd5fa9335df95ee4b8a0edc30.svg",
+    "logoURI": "/assets/42161/0xb1084db8d3c05cebd5fa9335df95ee4b8a0edc30.svg",
     "tags": [],
     "extensions": {}
   }
