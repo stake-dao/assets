@@ -6,7 +6,7 @@
     "symbol": "BNB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/bnb.svg",
+    "logoURI": "./assets/56/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg",
     "tags": [],
     "extensions": {}
   },
@@ -17,7 +17,7 @@
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/wbnb.svg",
+    "logoURI": "./assets/56/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.svg",
     "tags": [],
     "extensions": {}
   },
@@ -28,9 +28,11 @@
     "symbol": "CAKE",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/cake.svg",
+    "logoURI": "./assets/56/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "pancakeswap" }
+    "extensions": {
+      "coingeckoSlug": "pancakeswap"
+    }
   },
   {
     "id": "sdcake",
@@ -39,9 +41,14 @@
     "symbol": "sdCAKE",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/sdcake.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "cake", "coingeckoSlug": "stake-dao-cake" }
+    "logoURI": "./assets/56/0x6a1c1447f97b27da23dc52802f5f1435b5ac821a.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "cake",
+      "coingeckoSlug": "stake-dao-cake"
+    }
   },
   {
     "id": "mav",
@@ -50,7 +57,7 @@
     "symbol": "MAV",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/mav.svg",
+    "logoURI": "./assets/56/0xd691d9a68c887bdf34da8c36f63487333acfd103.svg",
     "tags": [],
     "extensions": {}
   },
@@ -61,9 +68,13 @@
     "symbol": "sdMAV",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/sdmav.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "mav" }
+    "logoURI": "./assets/56/0x75289388d50364c3013583d97bd70ced0e183e32.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "mav"
+    }
   },
   {
     "id": "usdc",
@@ -72,7 +83,7 @@
     "symbol": "USDC",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/usdc.svg",
+    "logoURI": "./assets/56/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.svg",
     "tags": [],
     "extensions": {}
   },
@@ -83,7 +94,7 @@
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/usdt.svg",
+    "logoURI": "./assets/56/0x55d398326f99059ff775485246999027b3197955.svg",
     "tags": [],
     "extensions": {}
   },
@@ -94,7 +105,7 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/busd.svg",
+    "logoURI": "./assets/56/0xe9e7cea3dedca5984780bafc599bd69add087d56.svg",
     "tags": [],
     "extensions": {}
   },
@@ -105,7 +116,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/eth.svg",
+    "logoURI": "./assets/56/0x2170ed0880ac9a755fd29b2688956bd959f933f8.svg",
     "tags": [],
     "extensions": {}
   },
@@ -116,7 +127,7 @@
     "symbol": "BTCB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/btc.svg",
+    "logoURI": "./assets/56/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.svg",
     "tags": [],
     "extensions": {}
   },
@@ -127,7 +138,7 @@
     "symbol": "STG",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/stg.svg",
+    "logoURI": "./assets/56/0xb0d502e938ed5f4df2e681fe6e419ff29631d62b.svg",
     "tags": [],
     "extensions": {}
   },
@@ -138,7 +149,7 @@
     "symbol": "FDUSD",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/fdusd.svg",
+    "logoURI": "./assets/56/0xc5f0f7b66764f6ec8c8dff7ba683102295e16409.svg",
     "tags": [],
     "extensions": {}
   },
@@ -149,8 +160,10 @@
     "symbol": "SDT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/assets/sdt.svg",
+    "logoURI": "./assets/56/0x07715ee7219b07b8e01cc7d2787f4e5e75860383.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "stake-dao" }
+    "extensions": {
+      "coingeckoSlug": "stake-dao"
+    }
   }
 ]

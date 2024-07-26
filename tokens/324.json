@@ -6,8 +6,12 @@
     "symbol": "sdMAV",
     "decimals": 18,
     "chainId": 324,
-    "logoURI": "/assets/sdmav.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "mav" }
+    "logoURI": "./assets/324/0x8e6d4c0088b5b41bddb126f355ef278ac5b5974c.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "mav"
+    }
   }
 ]
