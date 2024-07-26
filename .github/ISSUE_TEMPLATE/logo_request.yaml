@@ -1,0 +1,58 @@
+name: Logo Request
+description: Request a token logo to add into the repository.
+title: "[Logo Request]: "
+labels: ["request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this logo request form.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Token name
+      placeholder: Stake DAO Token
+    validations:
+      required: true
+  - type: input
+    id: symbol
+    attributes:
+      label: Symbol
+      description: Token symbol
+      placeholder: SDT
+    validations:
+      required: true
+  - type: input
+    id: logo
+    attributes:
+      label: Logo URL
+      description: URL to find the SVG file of your logo
+      placeholder: https://raw.githubusercontent.com/stake-dao/assets/main/assets/1/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.svg
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Chains
+      multiple: true
+      description: Select the chains for your logo
+      options:
+        - Ethereum
+        - Arbitrum
+        - Binance Smart Chain
+        - Polygon
+        - zkSync
+        - Base
+        - Fraxtal
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: address
+    attributes:
+      label: Addresses
+      description: Input the addresses of your token on the selected chains
+      placeholder: 'Ethereum : 0x...'
+    validations:
+      required: true

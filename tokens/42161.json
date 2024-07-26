@@ -141,5 +141,27 @@
     "logoURI": "/assets/fxs.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "usd+",
+    "name": "USD+",
+    "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+    "symbol": "USD+",
+    "decimals": 6,
+    "chainId": 42161,
+    "logoURI": "/assets/usd+.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usdt+",
+    "name": "USDT+",
+    "address": "0xb1084db8D3C05CEbd5FA9335dF95EE4b8a0edc30",
+    "symbol": "USDT+",
+    "decimals": 6,
+    "chainId": 42161,
+    "logoURI": "/assets/usdt+.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]

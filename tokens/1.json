@@ -1230,5 +1230,49 @@
     "logoURI": "/assets/baousd.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "cvgcvx",
+    "name": "Convergence CVX",
+    "address": "0x2191DF768ad71140F9F3E96c1e4407A4aA31d082",
+    "symbol": "cvgCVX",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/cvgcvx.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "cvx1",
+    "name": "Convergence stkCVX",
+    "address": "0x6C9815826FdF8c7a45cCfEd2064dbaB33a078712",
+    "symbol": "CVX1",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/cvx1.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "dgneth",
+    "name": "Degen ETH",
+    "address": "0x005F893EcD7bF9667195642f7649DA8163e23658",
+    "symbol": "dgnETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/dgneth.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usr",
+    "name": "Resolv USD",
+    "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+    "symbol": "USR",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/usr.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
