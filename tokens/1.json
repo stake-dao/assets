@@ -6,7 +6,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/eth.svg",
+    "logoURI": "/assets/1/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg",
     "tags": [],
     "extensions": {}
   },
@@ -17,9 +17,11 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/weth.svg",
+    "logoURI": "/assets/1/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "weth" }
+    "extensions": {
+      "coingeckoSlug": "weth"
+    }
   },
   {
     "id": "dai",
@@ -28,7 +30,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/dai.svg",
+    "logoURI": "/assets/1/0x6b175474e89094c44da98b954eedeac495271d0f.svg",
     "tags": [],
     "extensions": {}
   },
@@ -39,9 +41,11 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 1,
-    "logoURI": "/assets/usdc.svg",
+    "logoURI": "/assets/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "usdc" }
+    "extensions": {
+      "coingeckoSlug": "usdc"
+    }
   },
   {
     "id": "usdt",
@@ -50,7 +54,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 1,
-    "logoURI": "/assets/usdt.svg",
+    "logoURI": "/assets/1/0xdac17f958d2ee523a2206206994597c13d831ec7.svg",
     "tags": [],
     "extensions": {}
   },
@@ -61,7 +65,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 1,
-    "logoURI": "/assets/wbtc.svg",
+    "logoURI": "/assets/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.svg",
     "tags": [],
     "extensions": {}
   },
@@ -72,7 +76,7 @@
     "symbol": "FRAX",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/frax.svg",
+    "logoURI": "/assets/1/0x853d955acef822db058eb8505911ed77f175b99e.svg",
     "tags": [],
     "extensions": {}
   },
@@ -83,7 +87,7 @@
     "symbol": "STG",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/stg.svg",
+    "logoURI": "/assets/1/0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6.svg",
     "tags": [],
     "extensions": {}
   },
@@ -94,9 +98,11 @@
     "symbol": "SDT",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdt.svg",
+    "logoURI": "/assets/1/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "stake-dao" }
+    "extensions": {
+      "coingeckoSlug": "stake-dao"
+    }
   },
   {
     "id": "vesdt",
@@ -105,7 +111,7 @@
     "symbol": "veSDT",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdt.svg",
+    "logoURI": "/assets/1/0x0c30476f66034e11782938df8e4384970b6c9e8a.svg",
     "tags": [],
     "extensions": {}
   },
@@ -116,7 +122,7 @@
     "symbol": "USDC+",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/usdc+.svg",
+    "logoURI": "/assets/1/0xfc0b1eef20e4c68b3dcf36c4537cfa7ce46ca70b.svg",
     "tags": [],
     "extensions": {}
   },
@@ -127,7 +133,7 @@
     "symbol": "ETH+",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/eth+.svg",
+    "logoURI": "/assets/1/0xe72b141df173b999ae7c1adcbf60cc9833ce56a8.svg",
     "tags": [],
     "extensions": {}
   },
@@ -138,7 +144,7 @@
     "symbol": "eUSD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/eusd.svg",
+    "logoURI": "/assets/1/0xa0d69e286b938e21cbf7e51d71f6a4c8918f482f.svg",
     "tags": [],
     "extensions": {}
   },
@@ -149,7 +155,7 @@
     "symbol": "hyUSD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/hyusd.svg",
+    "logoURI": "/assets/1/0xacdf0dba4b9839b96221a8487e9ca660a48212be.svg",
     "tags": [],
     "extensions": {}
   },
@@ -160,7 +166,7 @@
     "symbol": "ANGLE",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/angle.svg",
+    "logoURI": "/assets/1/0x31429d1856ad1377a8a0079410b297e1a9e214c2.svg",
     "tags": [],
     "extensions": {}
   },
@@ -171,9 +177,13 @@
     "symbol": "sdANGLE",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdangle.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "angle" }
+    "logoURI": "/assets/1/0x752b4c6e92d96467fe9b9a2522ef07228e00f87c.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "angle"
+    }
   },
   {
     "id": "crv",
@@ -182,9 +192,11 @@
     "symbol": "CRV",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/crv.svg",
+    "logoURI": "/assets/1/0xd533a949740bb3306d119cc777fa900ba034cd52.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "curve-dao-token" }
+    "extensions": {
+      "coingeckoSlug": "curve-dao-token"
+    }
   },
   {
     "id": "sdcrv",
@@ -193,9 +205,14 @@
     "symbol": "sdCRV",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdcrv.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "crv", "coingeckoSlug": "stake-dao-crv" }
+    "logoURI": "/assets/1/0xd1b5651e55d4ceed36251c61c50c889b36f6abb5.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "crv",
+      "coingeckoSlug": "stake-dao-crv"
+    }
   },
   {
     "id": "crvusd",
@@ -204,7 +221,7 @@
     "symbol": "crvUSD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/crvusd.svg",
+    "logoURI": "/assets/1/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.svg",
     "tags": [],
     "extensions": {}
   },
@@ -215,7 +232,7 @@
     "symbol": "MIM",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/mim.svg",
+    "logoURI": "/assets/1/0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3.svg",
     "tags": [],
     "extensions": {}
   },
@@ -226,7 +243,7 @@
     "symbol": "EURA",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/eura.svg",
+    "logoURI": "/assets/1/0x1a7e4e63778b4f12a199c062f3efdd288afcbce8.svg",
     "tags": [],
     "extensions": {}
   },
@@ -237,7 +254,7 @@
     "symbol": "cbETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/cbeth.svg",
+    "logoURI": "/assets/1/0xbe9895146f7af43049ca1c1ae358b0541ea49704.svg",
     "tags": [],
     "extensions": {}
   },
@@ -248,7 +265,7 @@
     "symbol": "FEI",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/fei.svg",
+    "logoURI": "/assets/1/0x956f47f50a910163d8bf957cf5846d573e7f87ca.svg",
     "tags": [],
     "extensions": {}
   },
@@ -259,7 +276,7 @@
     "symbol": "GUSD",
     "decimals": 2,
     "chainId": 1,
-    "logoURI": "/assets/gusd.svg",
+    "logoURI": "/assets/1/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd.svg",
     "tags": [],
     "extensions": {}
   },
@@ -270,7 +287,7 @@
     "symbol": "LUSD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/lusd.svg",
+    "logoURI": "/assets/1/0x5f98805a4e8be255a32880fdec7f6728c6568ba0.svg",
     "tags": [],
     "extensions": {}
   },
@@ -281,7 +298,7 @@
     "symbol": "RAI",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/rai.svg",
+    "logoURI": "/assets/1/0x03ab458634910aad20ef5f1c8ee96f1d6ac54919.svg",
     "tags": [],
     "extensions": {}
   },
@@ -292,7 +309,7 @@
     "symbol": "LDO",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/ldo.svg",
+    "logoURI": "/assets/1/0x5a98fcbea516cf06857215779fd812ca3bef1b32.svg",
     "tags": [],
     "extensions": {}
   },
@@ -303,7 +320,7 @@
     "symbol": "rETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/reth.svg",
+    "logoURI": "/assets/1/0xae78736cd615f374d3085123a210448e74fc6393.svg",
     "tags": [],
     "extensions": {}
   },
@@ -314,7 +331,7 @@
     "symbol": "stETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/steth.svg",
+    "logoURI": "/assets/1/0xae7ab96520de3a18e5e111b5eaab095312d7fe84.svg",
     "tags": [],
     "extensions": {}
   },
@@ -325,7 +342,7 @@
     "symbol": "EURS",
     "decimals": 2,
     "chainId": 1,
-    "logoURI": "/assets/eurs.svg",
+    "logoURI": "/assets/1/0xdb25f211ab05b1c97d595516f45794528a807ad8.svg",
     "tags": [],
     "extensions": {}
   },
@@ -336,7 +353,7 @@
     "symbol": "sEUR",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/seur.svg",
+    "logoURI": "/assets/1/0xd71ecff9342a5ced620049e616c5035f1db98620.svg",
     "tags": [],
     "extensions": {}
   },
@@ -347,7 +364,7 @@
     "symbol": "sETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/seth.svg",
+    "logoURI": "/assets/1/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.svg",
     "tags": [],
     "extensions": {}
   },
@@ -358,9 +375,11 @@
     "symbol": "wstETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/wsteth.svg",
+    "logoURI": "/assets/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "wrapped-steth" }
+    "extensions": {
+      "coingeckoSlug": "wrapped-steth"
+    }
   },
   {
     "id": "tusd",
@@ -369,7 +388,7 @@
     "symbol": "TUSD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/tusd.svg",
+    "logoURI": "/assets/1/0x0000000000085d4780b73119b644ae5ecd22b376.svg",
     "tags": [],
     "extensions": {}
   },
@@ -380,7 +399,7 @@
     "symbol": "USDP",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/usdp.svg",
+    "logoURI": "/assets/1/0x8e870d67f660d95d5be530380d0ec0bd388289e1.svg",
     "tags": [],
     "extensions": {}
   },
@@ -391,7 +410,7 @@
     "symbol": "yCRV",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/ycrv.svg",
+    "logoURI": "/assets/1/0xfcc5c47be19d06bf83eb04298b026f81069ff65b.svg",
     "tags": [],
     "extensions": {}
   },
@@ -402,9 +421,11 @@
     "symbol": "YFI",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/yfi.svg",
+    "logoURI": "/assets/1/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "yearn-yfi" }
+    "extensions": {
+      "coingeckoSlug": "yearn-yfi"
+    }
   },
   {
     "id": "dyfi",
@@ -413,9 +434,11 @@
     "symbol": "dYFI",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/dyfi.svg",
+    "logoURI": "/assets/1/0x41252e8691e964f7de35156b68493bab6797a275.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "yearn-dyfi" }
+    "extensions": {
+      "coingeckoSlug": "yearn-dyfi"
+    }
   },
   {
     "id": "yeth",
@@ -424,7 +447,7 @@
     "symbol": "yETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/yeth.svg",
+    "logoURI": "/assets/1/0x1bed97cbc3c24a4fb5c069c6e311a967386131f7.svg",
     "tags": [],
     "extensions": {}
   },
@@ -435,9 +458,11 @@
     "symbol": "FXS",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/fxs.svg",
+    "logoURI": "/assets/1/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "frax-share" }
+    "extensions": {
+      "coingeckoSlug": "frax-share"
+    }
   },
   {
     "id": "fpis",
@@ -446,9 +471,11 @@
     "symbol": "FPIS",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/fpis.svg",
+    "logoURI": "/assets/1/0xc2544a32872a91f4a553b404c6950e89de901fdb.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "frax-price-index-share" }
+    "extensions": {
+      "coingeckoSlug": "frax-price-index-share"
+    }
   },
   {
     "id": "pendle",
@@ -457,9 +484,11 @@
     "symbol": "PENDLE",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/pendle.svg",
+    "logoURI": "/assets/1/0x808507121b80c02388fad14726482e061b8da827.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "pendle" }
+    "extensions": {
+      "coingeckoSlug": "pendle"
+    }
   },
   {
     "id": "bal",
@@ -468,9 +497,11 @@
     "symbol": "BAL",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/bal.svg",
+    "logoURI": "/assets/1/0xba100000625a3754423978a60c9317c58a424e3d.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "balancer" }
+    "extensions": {
+      "coingeckoSlug": "balancer"
+    }
   },
   {
     "id": "apw",
@@ -479,9 +510,11 @@
     "symbol": "APW",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/apw.svg",
+    "logoURI": "/assets/1/0x4104b135dbc9609fc1a9490e61369036497660c8.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "apwine" }
+    "extensions": {
+      "coingeckoSlug": "apwine"
+    }
   },
   {
     "id": "bpt",
@@ -490,7 +523,7 @@
     "symbol": "BPT",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/bpt.svg",
+    "logoURI": "/assets/1/0x0ec9f76202a7061eb9b3a7d6b59d36215a7e37da.svg",
     "tags": [],
     "extensions": {}
   },
@@ -501,9 +534,11 @@
     "symbol": "3Crv",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/3crv.svg",
+    "logoURI": "/assets/1/0x6c3f90f043a72fa612cbac8115ee7e52bde6e490.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "lp-3pool-curve" }
+    "extensions": {
+      "coingeckoSlug": "lp-3pool-curve"
+    }
   },
   {
     "id": "bb-a-usd",
@@ -512,7 +547,7 @@
     "symbol": "bb-a-USD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/bb-a-usd.svg",
+    "logoURI": "/assets/1/0xa13a9247ea42d743238089903570127dda72fe44.svg",
     "tags": [],
     "extensions": {}
   },
@@ -523,9 +558,13 @@
     "symbol": "sdYFI",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdyfi.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "yfi" }
+    "logoURI": "/assets/1/0x97983236be88107cc8998733ef73d8d969c52e37.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "yfi"
+    }
   },
   {
     "id": "sdpendle",
@@ -534,9 +573,14 @@
     "symbol": "sdPENDLE",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdpendle.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "pendle", "coingeckoSlug": "stake-dao-pendle" }
+    "logoURI": "/assets/1/0x5ea630e00d6ee438d3dea1556a110359acdc10a9.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "pendle",
+      "coingeckoSlug": "stake-dao-pendle"
+    }
   },
   {
     "id": "sdfxs",
@@ -545,9 +589,14 @@
     "symbol": "sdFXS",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdfxs.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "fxs", "coingeckoSlug": "stake-dao-fxs" }
+    "logoURI": "/assets/1/0x402f878bdd1f5c66fdaf0fababcf74741b68ac36.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "fxs",
+      "coingeckoSlug": "stake-dao-fxs"
+    }
   },
   {
     "id": "sdfpis",
@@ -556,9 +605,14 @@
     "symbol": "sdFPIS",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdfpis.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "fpis", "coingeckoSlug": "frax-price-index-share" }
+    "logoURI": "/assets/1/0x334cb66050049c1e392007b018321c44a1dbfac4.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "fpis",
+      "coingeckoSlug": "frax-price-index-share"
+    }
   },
   {
     "id": "sdbal",
@@ -567,9 +621,14 @@
     "symbol": "sdBAL",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdbal.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "80-bal-20-weth", "coingeckoSlug": "stake-dao-balancer" }
+    "logoURI": "/assets/1/0xf24d8651578a55b0c119b9910759a351a3458895.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "80-bal-20-weth",
+      "coingeckoSlug": "stake-dao-balancer"
+    }
   },
   {
     "id": "sdapw",
@@ -578,9 +637,14 @@
     "symbol": "sdAPW",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdapw.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "apw", "coingeckoSlug": "stake-dao-apwine" }
+    "logoURI": "/assets/1/0x26f01fe3be55361b0643bc9d5d60980e37a2770d.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "apw",
+      "coingeckoSlug": "stake-dao-apwine"
+    }
   },
   {
     "id": "sdbpt",
@@ -589,9 +653,13 @@
     "symbol": "sdBPT",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdbpt.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "bpt" }
+    "logoURI": "/assets/1/0x825ba129b3ea1ddc265708fcbb9dd660fdd2ef73.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "bpt"
+    }
   },
   {
     "id": "mav",
@@ -600,9 +668,11 @@
     "symbol": "MAV",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/mav.svg",
+    "logoURI": "/assets/1/0x7448c7456a97769f6cd04f1e83a4a23ccdc46abd.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "maverick-protocol" }
+    "extensions": {
+      "coingeckoSlug": "maverick-protocol"
+    }
   },
   {
     "id": "sdmav",
@@ -611,9 +681,14 @@
     "symbol": "sdMAV",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdmav.svg",
-    "tags": ["sd-token"],
-    "extensions": { "underlying": "mav", "coingeckoSlug": "maverick-protocol" }
+    "logoURI": "/assets/1/0x50687515e93c43964733282f9db8683f80bb02f9.svg",
+    "tags": [
+      "sd-token"
+    ],
+    "extensions": {
+      "underlying": "mav",
+      "coingeckoSlug": "maverick-protocol"
+    }
   },
   {
     "id": "fxn",
@@ -622,9 +697,11 @@
     "symbol": "FXN",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/fxn.svg",
+    "logoURI": "/assets/1/0x365accfca291e7d3914637abf1f7635db165bb09.svg",
     "tags": [],
-    "extensions": { "coingeckoSlug": "fxn-token" }
+    "extensions": {
+      "coingeckoSlug": "fxn-token"
+    }
   },
   {
     "id": "sdfxn",
@@ -633,7 +710,7 @@
     "symbol": "sdFXN",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdfxn.svg",
+    "logoURI": "/assets/1/0xe19d1c837b8a1c83a56cd9165b2c0256d39653ad.svg",
     "tags": [],
     "extensions": {}
   },
@@ -644,7 +721,7 @@
     "symbol": "B-80BAL-20WETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/bal.svg",
+    "logoURI": "/assets/1/0x5c6ee304399dbdb9c8ef030ab642b10820db8f56.svg",
     "tags": [],
     "extensions": {}
   },
@@ -655,7 +732,7 @@
     "symbol": "BAL-20WETH-80LIT",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/20-weth-80-lit.svg",
+    "logoURI": "/assets/1/0x9232a548dd9e81bac65500b5e0d918f8ba93675c.svg",
     "tags": [],
     "extensions": {}
   },
@@ -666,7 +743,7 @@
     "symbol": "sfrxETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sfrxeth.svg",
+    "logoURI": "/assets/1/0xac3e018457b222d93114458476f3e3416abbe38f.svg",
     "tags": [],
     "extensions": {}
   },
@@ -677,7 +754,7 @@
     "symbol": "frxETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/frxeth.svg",
+    "logoURI": "/assets/1/0x5e8422345238f34275888049021821e8e08caa1f.svg",
     "tags": [],
     "extensions": {}
   },
@@ -688,7 +765,7 @@
     "symbol": "swETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sweth.svg",
+    "logoURI": "/assets/1/0xf951e335afb289353dc249e82926178eac7ded78.svg",
     "tags": [],
     "extensions": {}
   },
@@ -699,7 +776,7 @@
     "symbol": "OETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/oeth.svg",
+    "logoURI": "/assets/1/0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3.svg",
     "tags": [],
     "extensions": {}
   },
@@ -710,7 +787,7 @@
     "symbol": "GNO",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/gno.svg",
+    "logoURI": "/assets/1/0x6810e776880c02933d47db1b9fc05908e5386b96.svg",
     "tags": [],
     "extensions": {}
   },
@@ -721,7 +798,7 @@
     "symbol": "sDAI",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdai.svg",
+    "logoURI": "/assets/1/0x83f20f44975d03b1b09e64809b757c47f942beea.svg",
     "tags": [],
     "extensions": {}
   },
@@ -732,7 +809,7 @@
     "symbol": "fUSDC",
     "decimals": 8,
     "chainId": 1,
-    "logoURI": "/assets/fusdc.svg",
+    "logoURI": "/assets/1/0x465a5a630482f3abd6d3b84b39b29b07214d19e5.svg",
     "tags": [],
     "extensions": {}
   },
@@ -743,7 +820,7 @@
     "symbol": "AURA",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/aura.svg",
+    "logoURI": "/assets/1/0xc0c293ce456ff0ed870add98a0828dd4d2903dbf.svg",
     "tags": [],
     "extensions": {}
   },
@@ -754,7 +831,7 @@
     "symbol": "sUSD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/susd.svg",
+    "logoURI": "/assets/1/0x57ab1ec28d129707052df4df418d58a2d46d5f51.svg",
     "tags": [],
     "extensions": {}
   },
@@ -765,7 +842,7 @@
     "symbol": "FRAX3CRV-f",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/frax3crv.svg",
+    "logoURI": "/assets/1/0xd632f22692fac7611d2aa1c0d552930d43caed3b.svg",
     "tags": [],
     "extensions": {}
   },
@@ -776,7 +853,7 @@
     "symbol": "MATIC",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/matic.svg",
+    "logoURI": "/assets/1/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.svg",
     "tags": [],
     "extensions": {}
   },
@@ -787,7 +864,7 @@
     "symbol": "CNC",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/cnc.svg",
+    "logoURI": "/assets/1/0x9ae380f0272e2162340a5bb646c354271c0f5cfc.svg",
     "tags": [],
     "extensions": {}
   },
@@ -798,7 +875,7 @@
     "symbol": "PRISMA",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/prisma.svg",
+    "logoURI": "/assets/1/0xda47862a83dac0c112ba89c6abc2159b95afd71c.svg",
     "tags": [],
     "extensions": {}
   },
@@ -809,7 +886,7 @@
     "symbol": "cvxPrisma",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/cvxprisma.svg",
+    "logoURI": "/assets/1/0x34635280737b5bfe6c7dc2fc3065d60d66e78185.svg",
     "tags": [],
     "extensions": {}
   },
@@ -820,7 +897,7 @@
     "symbol": "cvxCRV",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/cvxcrv.svg",
+    "logoURI": "/assets/1/0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7.svg",
     "tags": [],
     "extensions": {}
   },
@@ -831,7 +908,7 @@
     "symbol": "CVX",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/cvx.svg",
+    "logoURI": "/assets/1/0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b.svg",
     "tags": [],
     "extensions": {}
   },
@@ -842,7 +919,7 @@
     "symbol": "weETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/weeth.svg",
+    "logoURI": "/assets/1/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee.svg",
     "tags": [],
     "extensions": {}
   },
@@ -853,7 +930,7 @@
     "symbol": "ezETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/ezeth.svg",
+    "logoURI": "/assets/1/0xbf5495efe5db9ce00f80364c8b423567e58d2110.svg",
     "tags": [],
     "extensions": {}
   },
@@ -864,7 +941,7 @@
     "symbol": "rsETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/rseth.svg",
+    "logoURI": "/assets/1/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7.svg",
     "tags": [],
     "extensions": {}
   },
@@ -875,7 +952,7 @@
     "symbol": "yPRISMA",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/yprisma.svg",
+    "logoURI": "/assets/1/0xe3668873d944e4a949da05fc8bde419eff543882.svg",
     "tags": [],
     "extensions": {}
   },
@@ -886,7 +963,7 @@
     "symbol": "CAKE",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/cake.svg",
+    "logoURI": "/assets/1/0x152649ea73beab28c5b49b26eb48f7ead6d4c898.svg",
     "tags": [],
     "extensions": {}
   },
@@ -897,7 +974,7 @@
     "symbol": "FDUSD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/fdusd.svg",
+    "logoURI": "/assets/1/0xc5f0f7b66764f6ec8c8dff7ba683102295e16409.svg",
     "tags": [],
     "extensions": {}
   },
@@ -908,7 +985,7 @@
     "symbol": "PYUSD",
     "decimals": 6,
     "chainId": 1,
-    "logoURI": "/assets/pyusd.svg",
+    "logoURI": "/assets/1/0x6c3ea9036406852006290770bedfcaba0e23a0e8.svg",
     "tags": [],
     "extensions": {}
   },
@@ -919,9 +996,11 @@
     "symbol": "asdCRV",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdcrv.svg",
+    "logoURI": "/assets/1/0x43e54c2e7b3e294de3a155785f52ab49d87b9922.svg",
     "tags": [],
-    "extensions": { "wrapper": "0x8d41424694E9b4c41F6A39c0A20369a71E0A6280" }
+    "extensions": {
+      "wrapper": "0x8d41424694E9b4c41F6A39c0A20369a71E0A6280"
+    }
   },
   {
     "id": "vsdcrv",
@@ -930,9 +1009,12 @@
     "symbol": "vsdCRV",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sdcrv.svg",
+    "logoURI": "/assets/1/0xe079ac07463ff375ce48e8a9d76211c10696f3b8.svg",
     "tags": [],
-    "extensions": { "wrapper": "0x92b8d4d4db1555ba4e928ccdea02b52126921e95", "oftVersion": 2 }
+    "extensions": {
+      "wrapper": "0x92b8d4d4db1555ba4e928ccdea02b52126921e95",
+      "oftVersion": 2
+    }
   },
   {
     "id": "uzd",
@@ -941,7 +1023,7 @@
     "symbol": "UZD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/uzd.svg",
+    "logoURI": "/assets/1/0xb40b6608b2743e691c9b54ddbdee7bf03cd79f1c.svg",
     "tags": [],
     "extensions": {}
   },
@@ -952,7 +1034,7 @@
     "symbol": "tBTC",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/tbtc.svg",
+    "logoURI": "/assets/1/0x18084fba666a33d37592fa2633fd49a74dd93a88.svg",
     "tags": [],
     "extensions": {}
   },
@@ -963,7 +1045,7 @@
     "symbol": "CVG",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/cvg.svg",
+    "logoURI": "/assets/1/0x97effb790f2fbb701d88f89db4521348a2b77be8.svg",
     "tags": [],
     "extensions": {}
   },
@@ -974,7 +1056,7 @@
     "symbol": "zunUSD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/zunusd.svg",
+    "logoURI": "/assets/1/0x8c0d76c9b18779665475f3e212d9ca1ed6a1a0e6.svg",
     "tags": [],
     "extensions": {}
   },
@@ -985,7 +1067,7 @@
     "symbol": "zunETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/zuneth.svg",
+    "logoURI": "/assets/1/0xc2e660c62f72c2ad35ace6db78a616215e2f2222.svg",
     "tags": [],
     "extensions": {}
   },
@@ -996,7 +1078,7 @@
     "symbol": "rswETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/rsweth.svg",
+    "logoURI": "/assets/1/0xfae103dc9cf190ed75350761e95403b7b8afa6c0.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1007,7 +1089,7 @@
     "symbol": "USDe",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/usde.svg",
+    "logoURI": "/assets/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1018,7 +1100,7 @@
     "symbol": "sUSDe",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/susde.svg",
+    "logoURI": "/assets/1/0x9d39a5de30e57443bff2a8307a4256c8797a3497.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1029,7 +1111,7 @@
     "symbol": "pufETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/pufeth.svg",
+    "logoURI": "/assets/1/0xd9a442856c234a39a81a089c06451ebaa4306a72.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1040,7 +1122,7 @@
     "symbol": "uniETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/unieth.svg",
+    "logoURI": "/assets/1/0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1051,7 +1133,7 @@
     "symbol": "dETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/deth.svg",
+    "logoURI": "/assets/1/0x3d1e5cf16077f349e999d6b21a4f646e83cd90c5.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1062,7 +1144,7 @@
     "symbol": "pxETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/pxeth.svg",
+    "logoURI": "/assets/1/0x04c154b66cb340f3ae24111cc767e0184ed00cc6.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1073,7 +1155,7 @@
     "symbol": "alUSD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/alusd.svg",
+    "logoURI": "/assets/1/0xbc6da0fe9ad5f3b0d58160288917aa56653660e9.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1084,7 +1166,7 @@
     "symbol": "DOLA",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/dola.svg",
+    "logoURI": "/assets/1/0x865377367054516e17014ccded1e7d814edc9ce4.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1095,7 +1177,7 @@
     "symbol": "cvgSDT",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/cvgsdt.svg",
+    "logoURI": "/assets/1/0x830614ae209ff9d8706d386fcdbc7a55206fcffc.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1106,7 +1188,7 @@
     "symbol": "sFRAX",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/sfrax.svg",
+    "logoURI": "/assets/1/0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1117,7 +1199,7 @@
     "symbol": "XAI",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/xai.svg",
+    "logoURI": "/assets/1/0xd7c9f0e536dc865ae858b0c0453fe76d13c3beac.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1128,7 +1210,7 @@
     "symbol": "GHO",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/gho.svg",
+    "logoURI": "/assets/1/0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1139,7 +1221,7 @@
     "symbol": "COW",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/cow.svg",
+    "logoURI": "/assets/1/0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1150,7 +1232,7 @@
     "symbol": "rETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/stafi-reth.svg",
+    "logoURI": "/assets/1/0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1161,7 +1243,7 @@
     "symbol": "rgUSD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/rgusd.svg",
+    "logoURI": "/assets/1/0x78da5799cf427fee11e9996982f4150ece7a99a7.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1172,7 +1254,7 @@
     "symbol": "USD3",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/usd3.svg",
+    "logoURI": "/assets/1/0x0d86883faf4ffd7aeb116390af37746f45b6f378.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1183,7 +1265,7 @@
     "symbol": "S*USDT",
     "decimals": 6,
     "chainId": 1,
-    "logoURI": "/assets/usdt.svg",
+    "logoURI": "/assets/1/0x38ea452219524bb87e18de1c24d3bb59510bd783.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1194,7 +1276,7 @@
     "symbol": "scrvUSD-CRV",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/crvusd.svg",
+    "logoURI": "/assets/1/0xb27d1729489d04473631f0afaca3c3a7389ac9f8.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1205,7 +1287,7 @@
     "symbol": "WOETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/OETH.svg",
+    "logoURI": "/assets/1/0xdcee70654261af21c44c093c300ed3bb97b78192.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1216,7 +1298,7 @@
     "symbol": "ENA",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/ena.svg",
+    "logoURI": "/assets/1/0x57e114b691db790c35207b2e685d4a43181e6061.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1227,7 +1309,7 @@
     "symbol": "BaoUSD",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/baousd.svg",
+    "logoURI": "/assets/1/0x7945b0a6674b175695e5d1d08ae1e6f13744abb0.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1238,7 +1320,7 @@
     "symbol": "cvgCVX",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/cvgcvx.svg",
+    "logoURI": "/assets/1/0x2191df768ad71140f9f3e96c1e4407a4aa31d082.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1249,7 +1331,7 @@
     "symbol": "CVX1",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/cvx1.svg",
+    "logoURI": "/assets/1/0x6c9815826fdf8c7a45ccfed2064dbab33a078712.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1260,7 +1342,7 @@
     "symbol": "dgnETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/dgneth.svg",
+    "logoURI": "/assets/1/0x005f893ecd7bf9667195642f7649da8163e23658.svg",
     "tags": [],
     "extensions": {}
   },
@@ -1271,7 +1353,7 @@
     "symbol": "USR",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "/assets/usr.svg",
+    "logoURI": "/assets/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.svg",
     "tags": [],
     "extensions": {}
   }

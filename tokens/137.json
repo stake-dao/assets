@@ -6,7 +6,7 @@
     "symbol": "MATIC",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "/assets/matic.svg",
+    "logoURI": "/assets/137/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg",
     "tags": [],
     "extensions": {}
   },
@@ -17,7 +17,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "/assets/dai.svg",
+    "logoURI": "/assets/137/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063.svg",
     "tags": [],
     "extensions": {}
   },
@@ -28,7 +28,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "/assets/usdc.svg",
+    "logoURI": "/assets/137/0x2791bca1f2de4661ed88a30c99a7a9449aa84174.svg",
     "tags": [],
     "extensions": {}
   },
@@ -39,7 +39,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "/assets/usdt.svg",
+    "logoURI": "/assets/137/0xc2132d05d31c914a87c6611c10748aeb04b58e8f.svg",
     "tags": [],
     "extensions": {}
   },
@@ -50,7 +50,7 @@
     "symbol": "amDAI",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "/assets/dai.svg",
+    "logoURI": "/assets/137/0x27f8d03b3a2196956ed754badc28d73be8830a6e.svg",
     "tags": [],
     "extensions": {}
   },
@@ -61,7 +61,7 @@
     "symbol": "amUSDC",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "/assets/usdc.svg",
+    "logoURI": "/assets/137/0x1a13f4ca1d028320a707d99520abfefca3998b7f.svg",
     "tags": [],
     "extensions": {}
   },
@@ -72,7 +72,7 @@
     "symbol": "amUSDT",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "/assets/usdt.svg",
+    "logoURI": "/assets/137/0x60d55f02a771d515e077c9c2403a1ef324885cec.svg",
     "tags": [],
     "extensions": {}
   },
@@ -83,7 +83,7 @@
     "symbol": "EURA",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "/assets/eura.svg",
+    "logoURI": "/assets/137/0xe0b52e49357fd4daf2c15e02058dce6bc0057db4.svg",
     "tags": [],
     "extensions": {}
   },
@@ -94,7 +94,7 @@
     "symbol": "ANGLE",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "/assets/angle.svg",
+    "logoURI": "/assets/137/0x900f717ea076e1e7a484ad9dd2db81ceec60ebf1.svg",
     "tags": [],
     "extensions": {}
   },
@@ -105,7 +105,7 @@
     "symbol": "asdCRV",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "/assets/sdcrv.svg",
+    "logoURI": "/assets/137/0x75289388d50364c3013583d97bd70ced0e183e32.svg",
     "tags": [],
     "extensions": {}
   },
@@ -116,8 +116,10 @@
     "symbol": "vsdCRV",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "/assets/sdcrv.svg",
+    "logoURI": "/assets/137/0x62d5a59e0d67c0381aad53b201b4a1b8dcd2c833.svg",
     "tags": [],
-    "extensions": { "oftVersion": 2 }
+    "extensions": {
+      "oftVersion": 2
+    }
   }
 ]
