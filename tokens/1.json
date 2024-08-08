@@ -1347,5 +1347,16 @@
     "logoURI": "/assets/1/0x6df0e641fc9847c0c6fde39be6253045440c14d3.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "yneth",
+    "name": "YieldNest ETH",
+    "address": "0x09db87A538BD693E9d08544577d5cCfAA6373A48",
+    "symbol": "ynETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x09db87a538bd693e9d08544577d5ccfaa6373a48.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
