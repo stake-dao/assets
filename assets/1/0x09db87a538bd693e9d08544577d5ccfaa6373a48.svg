@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+    <circle cx="150" cy="150" r="150" fill="#e8c787"/>
+    <use href="#D" />
+    <use href="#D" transform="matrix(1 0 0 -1 0 299)"/>
+    <path fill="#162944" fill-rule="evenodd" d="M150 111.012V189h.274C171.661 189 189 171.538 189 150s-17.339-39-38.726-39H150v.012zm-40 38.982c0 21.455 17.881 38.857 40 39.006v-78c-22.119.149-40 17.551-40 38.994z"/>
+    <path d="M149.5 179c16.292 0 29.5-13.208 29.5-29.5S165.792 120 149.5 120 120 133.208 120 149.5s13.208 29.5 29.5 29.5z" fill="url(#C)"/>
+    <defs>
+        <linearGradient id="A" x1="137" y1="60" x2="191" y2="83" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#d8a643"/>
+            <stop offset="1" stop-color="#956f27"/>
+        </linearGradient>
+        <linearGradient id="B" x1="150" y1="54" x2="96" y2="99" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#f9e4bd"/>
+            <stop offset="1" stop-color="#bba170"/>
+        </linearGradient>
+        <radialGradient id="C" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(149.5 149.5) rotate(89.8105) scale(29.6967)">
+            <stop stop-color="#4380d6"/>
+            <stop offset="1" stop-color="#182d4b"/>
+        </radialGradient>
+        <g id="D">
+            <path d="M219 133l-69.455-31.46L80 133l69.545-115L219 133z" fill="#162944"/>
+            <path d="M150 41l42 70-42-19.141V41z" fill="url(#A)"/>
+            <path d="M107 111l43-70v50.848L107 111z" fill="url(#B)"/>
+        </g>
+    </defs>
+</svg>
