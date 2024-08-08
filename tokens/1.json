@@ -178,9 +178,7 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0x752b4c6e92d96467fe9b9a2522ef07228e00f87c.svg",
-    "tags": [
-      "sd-token"
-    ],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "angle"
     }
@@ -206,9 +204,7 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0xd1b5651e55d4ceed36251c61c50c889b36f6abb5.svg",
-    "tags": [
-      "sd-token"
-    ],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "crv",
       "coingeckoSlug": "stake-dao-crv"
@@ -559,9 +555,7 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0x97983236be88107cc8998733ef73d8d969c52e37.svg",
-    "tags": [
-      "sd-token"
-    ],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "yfi"
     }
@@ -574,9 +568,7 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0x5ea630e00d6ee438d3dea1556a110359acdc10a9.svg",
-    "tags": [
-      "sd-token"
-    ],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "pendle",
       "coingeckoSlug": "stake-dao-pendle"
@@ -590,9 +582,7 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0x402f878bdd1f5c66fdaf0fababcf74741b68ac36.svg",
-    "tags": [
-      "sd-token"
-    ],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "fxs",
       "coingeckoSlug": "stake-dao-fxs"
@@ -606,9 +596,7 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0x334cb66050049c1e392007b018321c44a1dbfac4.svg",
-    "tags": [
-      "sd-token"
-    ],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "fpis",
       "coingeckoSlug": "frax-price-index-share"
@@ -622,9 +610,7 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0xf24d8651578a55b0c119b9910759a351a3458895.svg",
-    "tags": [
-      "sd-token"
-    ],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "80-bal-20-weth",
       "coingeckoSlug": "stake-dao-balancer"
@@ -638,9 +624,7 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0x26f01fe3be55361b0643bc9d5d60980e37a2770d.svg",
-    "tags": [
-      "sd-token"
-    ],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "apw",
       "coingeckoSlug": "stake-dao-apwine"
@@ -654,9 +638,7 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0x825ba129b3ea1ddc265708fcbb9dd660fdd2ef73.svg",
-    "tags": [
-      "sd-token"
-    ],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "bpt"
     }
@@ -682,9 +664,7 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0x50687515e93c43964733282f9db8683f80bb02f9.svg",
-    "tags": [
-      "sd-token"
-    ],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "mav",
       "coingeckoSlug": "maverick-protocol"
@@ -1354,6 +1334,17 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "dinero",
+    "name": "Dinero",
+    "address": "0x6DF0E641FC9847c0c6Fde39bE6253045440c14d3",
+    "symbol": "DINERO",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x6df0e641fc9847c0c6fde39be6253045440c14d3.svg",
     "tags": [],
     "extensions": {}
   }
