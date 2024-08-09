@@ -7,11 +7,20 @@
     "decimals": 18,
     "chainId": 8453,
     "logoURI": "/assets/8453/0x75289388d50364c3013583d97bd70ced0e183e32.svg",
-    "tags": [
-      "sd-token"
-    ],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "mav"
     }
+  },
+  {
+    "id": "zun",
+    "name": "Zunami Token",
+    "address": "0x1db0Fc8933f545648b54A9eE4326209a9A259643",
+    "symbol": "ZUN",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "/assets/8453/0x1db0fc8933f545648b54a9ee4326209a9a259643.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]

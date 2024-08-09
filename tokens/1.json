@@ -1358,5 +1358,16 @@
     "logoURI": "/assets/1/0x09db87a538bd693e9d08544577d5ccfaa6373a48.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "zun",
+    "name": "Zunami Token",
+    "address": "0x6b5204B0Be36771253Cc38e88012E02B752f0f36",
+    "symbol": "ZUN",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x6b5204b0be36771253cc38e88012e02b752f0f36.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
