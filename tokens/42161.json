@@ -165,5 +165,16 @@
     "logoURI": "/assets/42161/0xb1084db8d3c05cebd5fa9335df95ee4b8a0edc30.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "zuneth",
+    "name": "Zunami ETH",
+    "address": "0x06D65eC13465Ac5A4376dc101e1141252c4adDf8",
+    "symbol": "zunETH",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x06d65ec13465ac5a4376dc101e1141252c4addf8.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
