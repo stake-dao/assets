@@ -187,5 +187,16 @@
     "logoURI": "/assets/42161/0x346e74dc9935a9b02eb34fb84658a66010fa056d.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "cake",
+    "name": "PancakeSwap Token",
+    "address": "0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c",
+    "symbol": "CAKE",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x1b896893dfc86bb67cf57767298b9073d2c1ba2c.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
