@@ -1369,5 +1369,16 @@
     "logoURI": "/assets/1/0x6b5204b0be36771253cc38e88012e02b752f0f36.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "sdola",
+    "name": "Staked Dola",
+    "address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
+    "symbol": "sDOLA",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xb45ad160634c528cc3d2926d9807104fa3157305.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
