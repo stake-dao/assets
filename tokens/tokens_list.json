@@ -1221,6 +1221,17 @@
     "extensions": {}
   },
   {
+    "id": "sdola",
+    "name": "Staked Dola",
+    "address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
+    "symbol": "sDOLA",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xb45ad160634c528cc3d2926d9807104fa3157305.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
     "id": "baousd",
     "name": "BaoUSD",
     "address": "0x7945b0A6674b175695e5d1D08aE1e6F13744Abb0",
