@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fxs",
+    "name": "Frax Share",
+    "address": "0xfc00000000000000000000000000000000000002",
+    "symbol": "FXS",
+    "decimals": 18,
+    "chainId": 252,
+    "logoURI": "/assets/252/0xfc00000000000000000000000000000000000002.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "sdfxs",
+    "name": "Stake DAO FXS",
+    "address": "0x1AEe2382e05Dc68BDfC472F1E46d570feCca5814",
+    "symbol": "sdFXS",
+    "decimals": 18,
+    "chainId": 252,
+    "logoURI": "/assets/252/0x1aee2382e05dc68bdfc472f1e46d570fecca5814.svg",
+    "tags": ["sd-token"],
+    "extensions": {
+      "underlying": "fxs"
+    }
+  }
+]
