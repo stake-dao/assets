@@ -178,6 +178,17 @@
     "extensions": {}
   },
   {
+    "id": "zunusd",
+    "name": "Zunami USD",
+    "address": "0x870908873b6f940E025A7C6879678cB82eC6C9B6",
+    "symbol": "zunUSD",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x870908873b6f940e025a7c6879678cb82ec6c9b6.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
     "id": "zun",
     "name": "Zunami Token",
     "address": "0x346E74Dc9935a9b02Eb34fB84658a66010fA056D",
