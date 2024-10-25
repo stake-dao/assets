@@ -1380,5 +1380,16 @@
     "logoURI": "/assets/1/0xb45ad160634c528cc3d2926d9807104fa3157305.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "sky",
+    "name": "SKY Governance Token",
+    "address": "0x56072C95FAA701256059aa122697B133aDEd9279",
+    "symbol": "SKY",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x56072c95faa701256059aa122697b133aded9279.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
