@@ -1391,5 +1391,16 @@
     "logoURI": "/assets/1/0x56072c95faa701256059aa122697b133aded9279.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "aave",
+    "name": "Aave",
+    "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
