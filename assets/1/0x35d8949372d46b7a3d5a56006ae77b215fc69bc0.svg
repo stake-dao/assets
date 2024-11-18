@@ -15,7 +15,14 @@
       <stop offset=".46" stop-color="#008e2b"/>
       <stop offset=".55" stop-color="#00ab38"/>
     </linearGradient>
-    <linearGradient id="gradient-3" x1="51.01" y1="157.46" x2="101.62" y2="102" xlink:href="#gradient-2"/>
+    <linearGradient id="gradient-3" x1="51.01" y1="157.46" x2="101.62" y2="102" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003d07"/>
+      <stop offset=".09" stop-color="#004209"/>
+      <stop offset=".2" stop-color="#005110"/>
+      <stop offset=".33" stop-color="#006b1b"/>
+      <stop offset=".46" stop-color="#008e2b"/>
+      <stop offset=".55" stop-color="#00ab38"/>
+    </linearGradient>
   </defs>
   <g id="Calque_1-2" data-name="Calque 1">
       <g>
