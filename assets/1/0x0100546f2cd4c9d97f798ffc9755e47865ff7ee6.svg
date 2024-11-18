@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="600" width="600" viewBox="0 0 600 600">
+    <path d="M300 600C465.685 600 600 465.685 600 300C600 134.315 465.685 0 300 0C134.315 0 0 134.315 0 300C0 465.685 134.315 600 300 600Z" fill="url(#paint0_radial_440_36)"/>
+    <g transform="matrix(1.875,0,0,1.875,0,0)">
+        <circle fill ="none" stroke-width="11" stroke="#6C93C7" stroke-linecap="round" stroke-linejoin="round" cx="160" cy="160" r="154.5"/>
+        <polygon fill="none" stroke="#6C93C7" stroke-width="9.77" stroke-linecap="round" stroke-linejoin="round" points="241.3,151.3 160.9,16.7 78.7,151.3 160,203.1 "/>
+        <polyline fill="none" stroke="#6C93C7" stroke-width="9.77" stroke-linecap="round" stroke-linejoin="round" points="160.9,16.7 160,94.1 160,203.1 "/>
+        <polyline fill="none" stroke="#6C93C7" stroke-width="9.77" stroke-linecap="round" stroke-linejoin="round" points="241.3,151.3 160,115.4 78.7,151.3 "/>
+        <line fill="none" stroke="#6C93C7" stroke-width="9.77" stroke-linecap="round" stroke-linejoin="round" x1="114.8" y1="174.4" x2="78.7" y2="189.5"/>
+        <line fill="none" stroke="#6C93C7" stroke-width="9.77" stroke-linecap="round" stroke-linejoin="round" x1="241.4" y1="189.5" x2="205.2" y2="174.4"/>
+        <polygon fill="none" stroke="#6C93C7" stroke-width="9.77" stroke-linecap="round" stroke-linejoin="round" points="160.5,244.5 241.3,189.4 160.5,303.3 78.7,189.4 "/>
+        <polyline fill="none" stroke="#6C93C7" stroke-width="9.77" stroke-linecap="round" stroke-linejoin="round" points="160.5,303.3 160.5,251.1 160.5,244.5 "/>
+    </g>
+    <defs>
+        <radialGradient id="paint0_radial_440_36" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(196 143.5) rotate(54.1675) scale(497.082)">
+            <stop stop-color="#323638"/>
+            <stop offset="1"/>
+        </radialGradient>
+    </defs>
+</svg>

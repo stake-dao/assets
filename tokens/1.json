@@ -1402,5 +1402,82 @@
     "logoURI": "/assets/1/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "unibtc",
+    "name": "uniBTC",
+    "address": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
+    "symbol": "uniBTC",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "syrupusdc",
+    "name": "Syrup USDC",
+    "address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+    "symbol": "syrupUSDC",
+    "decimals": 6,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "rlp",
+    "name": "Resolv Liquidity Provider",
+    "address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
+    "symbol": "RLP",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x4956b52ae2ff65d74ca2d61207523288e4528f96.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "aleth",
+    "name": "Alchemix ETH",
+    "address": "0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6",
+    "symbol": "alETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ethx",
+    "name": "ETHx",
+    "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+    "symbol": "ETHx",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xa35b1b31ce002fbf2058d22f30f95d405200a15b.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usd0",
+    "name": "USD0",
+    "address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+    "symbol": "USD0",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usd0++",
+    "name": "USD0 Liquid Bond",
+    "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
+    "symbol": "USD0++",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x35d8949372d46b7a3d5a56006ae77b215fc69bc0.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]

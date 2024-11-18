@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="600" width="600" viewBox="0 0 600 600">
+	<radialGradient id="a" cx="0" cy="0" gradientTransform="rotate(54.2 -42.3 263.4) scale(497.082)" gradientUnits="userSpaceOnUse" r="1">
+		<stop offset="0" stop-color="#f2a33d" />
+		<stop offset="1" stop-color="#f7900a" />
+	</radialGradient>
+	<circle cx="300" cy="300" r="300" fill="#f8991d" />
+	<path d="M300 600a300 300 0 100-600 300 300 0 000 600z" fill="url(#a)" fill-opacity=".3" />
+	<g transform="matrix(1.8,0,0,1.8,79,67)" fill="none" stroke="#f6e8d7" stroke-linecap="round" stroke-linejoin="round" stroke-width="6px">
+		<polygon points="123.02 242.95 3.09 243.02 63.09 183.04 123.02 242.95" />
+		<path d="m242.99,122.98c0,33.14-13.4,63.12-35.12,84.83l-84.88-84.83V3c66.28,0,119.99,53.72,119.99,119.98Z" />
+		<path d="m122.99,3C56.72,3,3,56.72,3,122.98h119.99V3Z" />
+		<polygon points="3 122.98 123.02 242.95 242.94 242.95 242.99 242.91 122.99 122.98 3 122.98" />
+	</g>
+</svg>
