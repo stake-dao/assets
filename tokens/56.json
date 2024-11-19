@@ -165,5 +165,51 @@
     "extensions": {
       "coingeckoSlug": "stake-dao"
     }
+  },
+  {
+    "id": "slisbnb",
+    "name": "Staked Lista BNB",
+    "address": "0xB0b84D294e0C75A6abe60171b70edEb2EFd14A1B",
+    "symbol": "slibBNB",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "/assets/56/0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "lisusd",
+    "name": "Lista USD",
+    "address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+    "symbol": "lisUSD",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "/assets/56/0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "pxeth",
+    "name": "Pirex Ether OFT",
+    "address": "0x300d2c875C6fb8Ce4bf5480B4d34b7c9ea8a33A4",
+    "symbol": "pxETH",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "/assets/56/0x300d2c875c6fb8ce4bf5480b4d34b7c9ea8a33a4.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "pendle",
+    "name": "Pendle",
+    "address": "0xb3Ed0A426155B79B898849803E3B36552f7ED507",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "/assets/56/0xb3ed0a426155b79b898849803e3b36552f7ed507.svg",
+    "tags": [],
+    "extensions": {
+      "coingeckoSlug": "pendle"
+    }
   }
 ]

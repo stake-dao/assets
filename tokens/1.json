@@ -1460,7 +1460,7 @@
   },
   {
     "id": "usd0",
-    "name": "USD0",
+    "name": "Usual USD",
     "address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
     "symbol": "USD0",
     "decimals": 18,
@@ -1477,6 +1477,105 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "/assets/1/0x35d8949372d46b7a3d5a56006ae77b215fc69bc0.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usds",
+    "name": "USDS",
+    "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+    "symbol": "USDS",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xdc035d45d973e3ec169d2276ddab16f1e407384f.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "susds",
+    "name": "Savings USDS",
+    "address": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+    "symbol": "sUSDS",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xa3931d71877c0e7a3148cb7eb4463524fec27fbd.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ebtc",
+    "name": "ether.fi BTC",
+    "address": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642",
+    "symbol": "eBTC",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x657e8c867d8b37dcc18fa4caead9c45eb088c642.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ausdt",
+    "name": "aUSD₮",
+    "address": "0x9EEAD9ce15383CaEED975427340b3A369410CFBF",
+    "symbol": "aUSD₮",
+    "decimals": 6,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x9eead9ce15383caeed975427340b3a369410cfbf.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "thusd",
+    "name": "Threshold USD",
+    "address": "0xCFC5bD99915aAa815401C5a41A927aB7a38d29cf",
+    "symbol": "thUSD",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xcfc5bd99915aaa815401c5a41a927ab7a38d29cf.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "mseth",
+    "name": "Metronome Synth ETH",
+    "address": "0x64351fC9810aDAd17A690E4e1717Df5e7e085160",
+    "symbol": "msETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x64351fc9810adad17a690e4e1717df5e7e085160.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "cbbtc",
+    "name": "Coinbase Wrapped BTC",
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "rsena",
+    "name": "Ethena LRT Vault ENA",
+    "address": "0xc65433845ecD16688eda196497FA9130d6C47Bd8",
+    "symbol": "rsENA",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xc65433845ecd16688eda196497fa9130d6c47bd8.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "tryb",
+    "name": "BiLira",
+    "address": "0x2C537E5624e4af88A7ae4060C022609376C8D0EB",
+    "symbol": "TRYb",
+    "decimals": 6,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x2c537e5624e4af88a7ae4060c022609376c8d0eb.svg",
     "tags": [],
     "extensions": {}
   }

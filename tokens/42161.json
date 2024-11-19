@@ -242,5 +242,29 @@
     "logoURI": "/assets/42161/0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "usdx",
+    "name": "Synthetix USD",
+    "address": "0xb2F30A7C980f052f02563fb518dcc39e6bf38175",
+    "symbol": "USDx",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0xb2f30a7c980f052f02563fb518dcc39e6bf38175.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "pendle",
+    "name": "Pendle",
+    "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.svg",
+    "tags": [],
+    "extensions": {
+      "coingeckoSlug": "pendle"
+    }
   }
 ]
