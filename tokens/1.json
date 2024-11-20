@@ -1578,5 +1578,159 @@
     "logoURI": "/assets/1/0x2c537e5624e4af88a7ae4060c022609376c8d0eb.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "fpi",
+    "name": "Frax Price Index",
+    "address": "0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E",
+    "symbol": "FPI",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x5ca135cb8527d76e932f34b5145575f9d8cbe08e.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "pal",
+    "name": "Paladin Token",
+    "address": "0xAB846Fb6C81370327e784Ae7CbB6d6a6af6Ff4BF",
+    "symbol": "PAL",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "eurt",
+    "name": "Euro Tether",
+    "address": "0xC581b735A1688071A1746c968e0798D642EDE491",
+    "symbol": "EURT",
+    "decimals": 6,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xc581b735a1688071a1746c968e0798d642ede491.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "badger",
+    "name": "Badger",
+    "address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+    "symbol": "BADGER",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x3472a5a71965499acd81997a54bba8d852c6e53d.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "dydx",
+    "name": "dYdX",
+    "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+    "symbol": "DYDX",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x92d6c1e31e14520e676a687f0a93788b716beff5.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "crvfrax",
+    "name": "Curve.fi FRAX/USDC",
+    "address": "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC",
+    "symbol": "crvFRAX",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x3175df0976dfa876431c2e9ee6bc45b65d3473cc.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "eurc",
+    "name": "Euro Coin",
+    "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+    "symbol": "EURC",
+    "decimals": 6,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x1abaea1f7c830bd89acc67ec4af516284b1bc33c.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ceur",
+    "name": "Celo Euro",
+    "address": "0xEE586e7Eaad39207F0549BC65f19e336942C992f",
+    "symbol": "cEUR",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xee586e7eaad39207f0549bc65f19e336942c992f.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ogv",
+    "name": "Origin DeFi Governance",
+    "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
+    "symbol": "OGV",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x9c354503c38481a7a7a51629142963f98ecc12d0.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "coil",
+    "name": "Coil",
+    "address": "0x823E1B82cE1Dc147Bbdb25a203f046aFab1CE918",
+    "symbol": "COIL",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x823e1b82ce1dc147bbdb25a203f046afab1ce918.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "cvxfxn",
+    "name": "Convex FXN",
+    "address": "0x183395DbD0B5e93323a7286D1973150697FFFCB3",
+    "symbol": "cvxFXN",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x183395dbd0b5e93323a7286d1973150697fffcb3.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "fxb_20240630",
+    "name": "FXB_1_JUN302024",
+    "address": "0x0dE54CFdfeD8005176f8b7A9D5438B45c4F1df1e",
+    "symbol": "FXB_20240630",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x0de54cfdfed8005176f8b7a9d5438b45c4f1df1e.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "fxb_20261231",
+    "name": "FXB_4_DEC312026",
+    "address": "0x76237BCfDbe8e06FB774663add96216961df4ff3",
+    "symbol": "FXB_20261231",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x76237bcfdbe8e06fb774663add96216961df4ff3.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "fraxpyusd",
+    "name": "FRAXPYUSD",
+    "address": "0xA5588F7cdf560811710A2D82D3C9c99769DB1Dcb",
+    "symbol": "FRAXPYUSD",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xa5588f7cdf560811710a2d82d3c9c99769db1dcb.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
