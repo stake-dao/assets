@@ -1,0 +1,57 @@
+[
+    {
+      "id": "s3crv_e",
+      "name": "s3CRV_e",
+      "address": "0x14F8E5851879A18E0FEA77b5A17F15523262a99E",
+      "symbol": "s3CRV_e",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "/assets/250/0x14f8e5851879a18e0fea77b5a17f15523262a99e.svg",
+      "tags": [],
+      "extensions": {}
+    },
+    {
+        "id": "s2crv_ar",
+        "name": "s2CRV_ar",
+        "address": "0x2902257bA817E1436b93F9F959ed50b95560B7d5",
+        "symbol": "s2CRV_ar",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "/assets/250/0x2902257ba817e1436b93f9f959ed50b95560b7d5.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "s3crv_op",
+        "name": "s3CRV_op",
+        "address": "0x740568006C07888216649632aace6620288C7078",
+        "symbol": "s2CRV_op",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "/assets/250/0x740568006c07888216649632aace6620288c7078.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "sav3crv_av",
+        "name": "sav3CRV_av",
+        "address": "0x9be1Ae6175b106f26439CebAf2217D7815F684af",
+        "symbol": "sav3CRV_av",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "/assets/250/0x9be1ae6175b106f26439cebaf2217d7815f684af.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "sam3crv_p",
+        "name": "sam3CRV_p",
+        "address": "0x4636a4eFba1C02917d0584505e47BB2D22AFe359",
+        "symbol": "sam3CRV_p",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "/assets/250/0x4636a4efba1c02917d0584505e47bb2d22afe359.svg",
+        "tags": [],
+        "extensions": {}
+    }
+]
