@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <radialGradient id="gradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(196 143.5) rotate(54.1675) scale(497.082)">
+        <stop stop-color="white"/>
+        <stop stop-color="#4460ef" offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <circle fill="url(#gradient)" cx="300" cy="300" r="300"/>
+      <g>
+        <circle fill="#4460ef" cx="330.5" cy="204.5" r="143.5"/>
+        <path fill="#4460ef" d="M187,204h151v193.53c0,69.8-56.67,126.47-126.47,126.47h-24.53V204h0Z"/>
+        <ellipse fill="white" cx="321" cy="180.5" rx="21" ry="34.5"/>
+        <ellipse fill="white" cx="408" cy="180.5" rx="21" ry="34.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
