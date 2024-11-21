@@ -53,5 +53,49 @@
         "logoURI": "/assets/250/0x4636a4efba1c02917d0584505e47bb2d22afe359.svg",
         "tags": [],
         "extensions": {}
+    },
+    {
+        "id": "sweth_e",
+        "name": "sWETH_e",
+        "address": "0x0c935328a69155dd43aa57f23288d868bae440fe",
+        "symbol": "sWETH_e",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "/assets/250/0x0c935328A69155dd43AA57f23288D868bAE440FE.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "sweth_ar",
+        "name": "sWETH_ar",
+        "address": "0x77E1886Bf34D7dc0Dcf8d5407ED6A239B66Ae2ee",
+        "symbol": "sWETH_ar",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "/assets/250/0x77e1886bf34d7dc0dcf8d5407ed6a239b66ae2ee.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "sweth_o",
+        "name": "sWETH_o",
+        "address": "0x66917b3B128760295bF48A5382951bC63bb1768E",
+        "symbol": "sWETH_o",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "/assets/250/0x66917b3b128760295bf48a5382951bc63bb1768e.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "sweth_ba",
+        "name": "sWETH_ba",
+        "address": "0xC6cD50E6085a5f037B638813483dD244E3E4bCaA",
+        "symbol": "sWETH_ba",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "/assets/250/0xc6cd50e6085a5f037b638813483dd244e3e4bcaa.svg",
+        "tags": [],
+        "extensions": {}
     }
 ]
