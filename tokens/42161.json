@@ -266,5 +266,16 @@
     "extensions": {
       "coingeckoSlug": "pendle"
     }
-  }
+  },
+  {
+    "id": "reywa",
+    "name": "rEYWA",
+    "address": "0xD9879D9DbDc5042D8f1C2710Be293909B985dc90",
+    "symbol": "rEYWA",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0xd9879d9dbdc5042d8f1c2710be293909b985dc90.svg",
+    "tags": [],
+    "extensions": {}
+}
 ]
