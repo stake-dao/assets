@@ -2018,5 +2018,93 @@
     "logoURI": "/assets/1/0x8f22779662ad253844013d8e99eccb4d80e31417.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "adai",
+    "name": "Aave interest bearing DAI",
+    "address": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
+    "symbol": "aDAI",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x028171bca77440897b824ca71d1c56cac55b68a3.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ausdc",
+    "name": "Aave interest bearing USDC",
+    "address": "0xBcca60bB61934080951369a648Fb03DF4F96263C",
+    "symbol": "aUSDC",
+    "decimals": 6,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xbcca60bb61934080951369a648fb03df4f96263c.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ausdt",
+    "name": "Aave interest bearing USDT",
+    "address": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
+    "symbol": "aUSDT",
+    "decimals": 6,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x3ed3b47dd13ec9a98b44e6204a523e766b225811.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ankreth",
+    "name": "Ankr Staked ETH",
+    "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+    "symbol": "ankrETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xe95a203b1a91a908f9b9ce46459d101078c2c3cb.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "cydai",
+    "name": "Yearn DAI Stablecoin",
+    "address": "0x8e595470Ed749b85C6F7669de83EAe304C2ec68F",
+    "symbol": "cyDAI",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x8e595470ed749b85c6f7669de83eae304c2ec68f.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "cyusdc",
+    "name": "Yearn USD Coin",
+    "address": "0x76Eb2FE28b36B3ee97F3Adae0C69606eeDB2A37c",
+    "symbol": "cyUSDC",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x76eb2fe28b36b3ee97f3adae0c69606eedb2a37c.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "cyusdt",
+    "name": "Yearn Tether USD",
+    "address": "0x48759F220ED983dB51fA7A8C0D2AAb8f3ce4166a",
+    "symbol": "cyUSDT",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x48759f220ed983db51fa7a8c0d2aab8f3ce4166a.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "spell",
+    "name": "Spell Token",
+    "address": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x090185f2135308bad17527004364ebcc2d37e5f6.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
