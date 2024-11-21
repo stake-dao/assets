@@ -97,5 +97,16 @@
         "logoURI": "/assets/250/0xc6cd50e6085a5f037b638813483dd244e3e4bcaa.svg",
         "tags": [],
         "extensions": {}
+    },
+    {
+        "id": "reywa",
+        "name": "rEYWA",
+        "address": "0xD9879D9DbDc5042D8f1C2710Be293909B985dc90",
+        "symbol": "rEYWA",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "/assets/250/0xd9879d9dbdc5042d8f1c2710be293909b985dc90.svg",
+        "tags": [],
+        "extensions": {}
     }
 ]
