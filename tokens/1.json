@@ -2502,5 +2502,27 @@
     "logoURI": "/assets/1/0x0655977feb2f289a4ab78af67bab0d17aab84367.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "gemach",
+    "name": "Gemach",
+    "address": "0xD96e84DDBc7CbE1D73c55B6fe8c64f3a6550deea",
+    "symbol": "GMAC",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xd96e84ddbc7cbe1d73c55b6fe8c64f3a6550deea.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "stader",
+    "name": "Stader",
+    "address": "0x30D20208d987713f46DFD34EF128Bb16C404D10f",
+    "symbol": "SD",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x30d20208d987713f46dfd34ef128bb16c404d10f.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]

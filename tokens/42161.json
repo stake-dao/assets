@@ -277,5 +277,16 @@
     "logoURI": "/assets/42161/0xd9879d9dbdc5042d8f1c2710be293909b985dc90.svg",
     "tags": [],
     "extensions": {}
-}
+  },
+  {
+    "id": "gemach",
+    "name": "Gemach",
+    "address": "0xDc8B6B6bEab4d5034aE91B7A1cf7D05A41f0d239",
+    "symbol": "GMAC",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0xdc8b6b6beab4d5034ae91b7a1cf7d05a41f0d239.svg",
+    "tags": [],
+    "extensions": {}
+  }
 ]
