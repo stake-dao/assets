@@ -288,5 +288,38 @@
     "logoURI": "/assets/42161/0xdc8b6b6beab4d5034ae91b7a1cf7d05a41f0d239.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "eth+",
+    "name": "ETHPlus",
+    "address": "0x18C14C2D707b2212e17d1579789Fc06010cfca23",
+    "symbol": "ETH+",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x18c14c2d707b2212e17d1579789fc06010cfca23.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "tbtc",
+    "name": "Arbitrum tBTC v2",
+    "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "eusd",
+    "name": "Electronic Dollar",
+    "address": "0x12275DCB9048680c4Be40942eA4D92c74C63b844",
+    "symbol": "eUSD",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x12275dcb9048680c4be40942ea4d92c74c63b844.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
