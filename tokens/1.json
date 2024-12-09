@@ -2524,5 +2524,16 @@
     "logoURI": "/assets/1/0x30d20208d987713f46dfd34ef128bb16c404d10f.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "ogn",
+    "name": "Origin Token",
+    "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+    "symbol": "OGN",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
