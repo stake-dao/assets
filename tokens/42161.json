@@ -321,5 +321,16 @@
     "logoURI": "/assets/42161/0x12275dcb9048680c4be40942ea4d92c74c63b844.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "eywa",
+    "name": "EYWA",
+    "address": "0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7",
+    "symbol": "EYWA",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x7a10f506e4c7658e6ad15fdf0443d450b7fa80d7.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
