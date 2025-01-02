@@ -2535,5 +2535,16 @@
     "logoURI": "/assets/1/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26.svg",
     "tags": [],
     "extensions": {}
-  }
+  },
+  {
+    "id": "wstusr",
+    "name": "Wrapped stUSR",
+    "address": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
+    "symbol": "wstUSR",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
+    "tags": [],
+    "extensions": {}
+  },
 ]
