@@ -2537,6 +2537,94 @@
     "extensions": {}
   },
   {
+    "id": "wstusr",
+    "name": "Wrapped stUSR",
+    "address": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
+    "symbol": "wstUSR",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "berastone",
+    "name": "Berachain STONE",
+    "address": "0x97Ad75064b20fb2B2447feD4fa953bF7F007a706",
+    "symbol": "beraSTONE",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x97ad75064b20fb2b2447fed4fa953bf7f007a706.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "liquidberabtc",
+    "name": "Ether.Fi Liquid Bera BTC",
+    "address": "0xC673ef7791724f0dcca38adB47Fbb3AEF3DB6C80",
+    "symbol": "liquidBeraBTC",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xc673ef7791724f0dcca38adb47fbb3aef3db6c80.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "liquidberaeth",
+    "name": "Ether.Fi Liquid Bera ETH",
+    "address": "0x83599937c2C9bEA0E0E8ac096c6f32e86486b410",
+    "symbol": "liquidBeraETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x83599937c2c9bea0e0e8ac096c6f32e86486b410.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ctlbtc",
+    "name": "Concrete-LBTC-Vault",
+    "address": "0x34bdbA9b3D8E3073Eb4470cd4C031C2e39C32DA8",
+    "symbol": "ctLBTC",
+    "decimals": 17,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x34bdba9b3d8e3073eb4470cd4c031c2e39c32da8.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ctusde",
+    "name": "Concrete-USDe-Vault",
+    "address": "0x9DC37e4a901b1e21Bd05E75c3B9A633A17001a39",
+    "symbol": "ctUSDe",
+    "decimals": 27,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x9dc37e4a901b1e21bd05e75c3b9a633a17001a39.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ctsusde",
+    "name": "Concrete-sUSDe-Vault",
+    "address": "0xf80c6636F9597d6a7FC1E5182B168B71e98Fd1cB",
+    "symbol": "ctsUSDe",
+    "decimals": 27,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xf80c6636f9597d6a7fc1e5182b168b71e98fd1cb.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "ctwbtc",
+    "name": "Concrete-WBTC-Vault",
+    "address": "0x52c2bc859F5082C4f8c17266A3CD640b5047370e",
+    "symbol": "ctWBTC",
+    "decimals": 17,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x52c2bc859f5082c4f8c17266a3cd640b5047370e.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
     "id": "aioz",
     "name": "AIOZ Network",
     "address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",

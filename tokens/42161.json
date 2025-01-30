@@ -321,5 +321,49 @@
     "logoURI": "/assets/42161/0x12275dcb9048680c4be40942ea4d92c74c63b844.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "eywa",
+    "name": "EYWA",
+    "address": "0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7",
+    "symbol": "EYWA",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x7a10f506e4c7658e6ad15fdf0443d450b7fa80d7.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "xai",
+    "name": "Xai",
+    "address": "0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66",
+    "symbol": "XAI",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "stxai",
+    "name": "stXAI",
+    "address": "0xab5c23bdbE99d75A7Ae4756e7cCEfd0A97B37E78",
+    "symbol": "stXAI",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0xab5c23bdbe99d75a7ae4756e7ccefd0a97b37e78.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "alxai",
+    "name": "alXAI",
+    "address": "0x4ac623237DE0Aa622b4fDF4Da63cf97216371Acf",
+    "symbol": "alXAI",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x4ac623237de0aa622b4fdf4da63cf97216371acf.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]

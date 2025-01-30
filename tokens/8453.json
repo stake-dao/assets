@@ -22,5 +22,27 @@
     "logoURI": "/assets/8453/0x1db0fc8933f545648b54a9ee4326209a9a259643.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+      "id": "usdc",
+      "name": "USD Coin",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 8453,
+      "logoURI": "/assets/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg",
+      "tags": [],
+      "extensions": {}
+  },
+  {
+      "id": "spectra",
+      "name": "Spectra",
+      "address": "0x64FCC3A02eeEba05Ef701b7eed066c6ebD5d4E51",
+      "symbol": "SPECTRA",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "/assets/8453/0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51.svg",
+      "tags": [],
+      "extensions": {}
   }
 ]
