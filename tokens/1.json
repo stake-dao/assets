@@ -2634,5 +2634,27 @@
     "logoURI": "/assets/1/0x626e8036deb333b408be468f951bdb42433cbf18.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "zchf",
+    "name": "Frankencoin",
+    "address": "0xB58E61C3098d85632Df34EecfB899A1Ed80921cB",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0xb58e61c3098d85632df34eecfb899a1ed80921cb.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "zunbtc",
+    "name": "Zunami BTC",
+    "address": "0x0FA308AE0ddE633b6eDE22ba719E7E0Bc45FC6dB",
+    "symbol": "zunBTC",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x0fa308ae0dde633b6ede22ba719e7e0bc45fc6db.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]

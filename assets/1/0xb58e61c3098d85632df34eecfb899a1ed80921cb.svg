@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+    <path d="M300 600C465.685 600 600 465.685 600 300C600 134.315 465.685 0 300 0C134.315 0 0 134.315 0 300C0 465.685 134.315 600 300 600Z" fill="url(#background)"/>
+    <g transform="matrix(4.69,0,0,4.69,0,0)">
+        <path d="M84 92H80V96H84V92Z" fill="#C1C2C8"/>
+        <path d="M64 92H60V96H64V92Z" fill="#DADBDE"/>
+        <path d="M68 88H64V92H68V88Z" fill="#E9EAEC"/>
+        <path d="M72 84H68V88H72V84Z" fill="#E5E6E8"/>
+        <path d="M112 80H108V84H112V80Z" fill="#C5C7CD"/>
+        <path d="M96 80H92V84H96V80Z" fill="#D9DADD"/>
+        <path d="M76 80H72V84H76V80Z" fill="#E6E7E9"/>
+        <path d="M108 76H104V80H108V76Z" fill="#F4F4F5"/>
+        <path d="M104 76H100V80H104V76Z" fill="white"/>
+        <path d="M88 76H84V80H88V76Z" fill="white"/>
+        <path d="M80 76H76V80H80V76Z" fill="#E6E7EA"/>
+        <path d="M76 76H72V80H76V76Z" fill="white"/>
+        <path d="M56 76H52V80H56V76Z" fill="white"/>
+        <path d="M104 72H100V76H104V72Z" fill="#F2F3F4"/>
+        <path d="M100 72H96V76H100V72Z" fill="white"/>
+        <path d="M96 72H92V76H96V72Z" fill="#F2F3F4"/>
+        <path d="M84 72H80V76H84V72Z" fill="#DCDDE1"/>
+        <path d="M80 72H76V76H80V72Z" fill="white"/>
+        <path d="M52 72H48V76H52V72Z" fill="white"/>
+        <path d="M20 72H16V76H20V72Z" fill="#C5C7CC"/>
+        <path d="M120 68H116V72H120V68Z" fill="white"/>
+        <path d="M112 68H108V72H112V68Z" fill="white"/>
+        <path d="M100 68H96V72H100V68Z" fill="white"/>
+        <path d="M92 68H88V72H92V68Z" fill="white"/>
+        <path d="M88 68H84V72H88V68Z" fill="white"/>
+        <path d="M84 68H80V72H84V68Z" fill="white"/>
+        <path d="M48 68H44V72H48V68Z" fill="white"/>
+        <path d="M44 68H40V72H44V68Z" fill="white"/>
+        <path d="M40 68H36V72H40V68Z" fill="#E4E5E8"/>
+        <path d="M24 68H20V72H24V68Z" fill="#C8CAD0"/>
+        <path d="M116 64H112V68H116V64Z" fill="#C5C7CD"/>
+        <path d="M112 64H108V68H112V64Z" fill="#E2E3E6"/>
+        <path d="M108 64H104V68H108V64Z" fill="#F4F4F5"/>
+        <path d="M104 64H100V68H104V64Z" fill="white"/>
+        <path d="M100 64H96V68H100V64Z" fill="white"/>
+        <path d="M96 64H92V68H96V64Z" fill="white"/>
+        <path d="M92 64H88V68H92V64Z" fill="white"/>
+        <path d="M88 64H84V68H88V64Z" fill="#EBECEE"/>
+        <path d="M52 64H48V68H52V64Z" fill="#B7BAC1"/>
+        <path d="M44 64H40V68H44V64Z" fill="white"/>
+        <path d="M40 64H36V68H40V64Z" fill="white"/>
+        <path d="M36 64H32V68H36V64Z" fill="#EFEFF1"/>
+        <path d="M32 64H28V68H32V64Z" fill="#D5D7DB"/>
+        <path d="M28 64H24V68H28V64Z" fill="#E4E5E8"/>
+        <path d="M108 60H104V64H108V60Z" fill="#CBCDD2"/>
+        <path d="M104 60H100V64H104V60Z" fill="#E7E8EA"/>
+        <path d="M100 60H96V64H100V60Z" fill="#F7F8F8"/>
+        <path d="M96 60H92V64H96V60Z" fill="white"/>
+        <path d="M92 60H88V64H92V60Z" fill="white"/>
+        <path d="M88 60H84V64H88V60Z" fill="white"/>
+        <path d="M84 60H80V64H84V60Z" fill="#F9F9FA"/>
+        <path d="M52 60H48V64H52V60Z" fill="white"/>
+        <path d="M40 60H36V64H40V60Z" fill="white"/>
+        <path d="M36 60H32V64H36V60Z" fill="white"/>
+        <path d="M32 60H28V64H32V60Z" fill="#FEFEFE"/>
+        <path d="M100 56H96V60H100V56Z" fill="#E2E4E7"/>
+        <path d="M96 56H92V60H96V56Z" fill="#F1F1F3"/>
+        <path d="M92 56H88V60H92V56Z" fill="white"/>
+        <path d="M88 56H84V60H88V56Z" fill="white"/>
+        <path d="M84 56H80V60H84V56Z" fill="white"/>
+        <path d="M36 56H32V60H36V56Z" fill="white"/>
+        <path d="M92 52H88V56H92V52Z" fill="#F6F6F8"/>
+        <path d="M88 52H84V56H88V52Z" fill="white"/>
+        <path d="M84 52H80V56H84V52Z" fill="white"/>
+        <path d="M80 52H76V56H80V52Z" fill="white"/>
+        <path d="M56 52H52V56H56V52Z" fill="white"/>
+        <path d="M88 48H84V52H88V48Z" fill="#FEFEFF"/>
+        <path d="M84 48H80V52H84V48Z" fill="white"/>
+        <path d="M80 48H76V52H80V48Z" fill="white"/>
+        <path d="M88 44H84V48H88V44Z" fill="#F0F1F3"/>
+        <path d="M84 44H80V48H84V44Z" fill="white"/>
+        <path d="M80 44H76V48H80V44Z" fill="white"/>
+        <path d="M76 44H72V48H76V44Z" fill="white"/>
+        <path d="M60 44H56V48H60V44Z" fill="white"/>
+        <path d="M84 40H80V44H84V40Z" fill="#EDEEF0"/>
+        <path d="M80 40H76V44H80V40Z" fill="#FEFFFF"/>
+        <path d="M76 40H72V44H76V40Z" fill="white"/>
+        <path d="M80 36H76V40H80V36Z" fill="#EFF0F2"/>
+        <path d="M76 36H72V40H76V36Z" fill="white"/>
+        <path d="M72 36H68V40H72V36Z" fill="white"/>
+        <path d="M64 36H60V40H64V36Z" fill="white"/>
+        <path d="M76 32H72V36H76V32Z" fill="#E8E9EC"/>
+        <path d="M72 32H68V36H72V32Z" fill="white"/>
+        <path d="M68 32H64V36H68V32Z" fill="white"/>
+        <path d="M72 28H68V32H72V28Z" fill="#EAECEE"/>
+        <path d="M68 28H64V32H68V28Z" fill="white"/>
+    </g>
+    <defs>
+        <radialGradient id="background" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(196 143.514) rotate(54.1676) scale(497.082 497.082)">
+            <stop offset="0.230743" stop-color="#AAAFBF" />
+            <stop offset="1" stop-color="#4A4F5F" />
+        </radialGradient>
+    </defs>
+</svg>
