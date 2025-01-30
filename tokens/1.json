@@ -2656,5 +2656,27 @@
     "logoURI": "/assets/1/0x0fa308ae0dde633b6ede22ba719e7e0bc45fc6db.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "afcvx",
+    "name": "Asymmetry Finance afCVX",
+    "address": "0x8668a15b7b023Dc77B372a740FCb8939E15257Cf",
+    "symbol": "afCVX",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x8668a15b7b023dc77b372a740fcb8939e15257cf.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "asf",
+    "name": "Asymmetry Finance Token",
+    "address": "0x59a529070fBb61e6D6c91f952CcB7f35c34Cf8Aa",
+    "symbol": "ASF",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "/assets/1/0x59a529070fbb61e6d6c91f952ccb7f35c34cf8aa.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
