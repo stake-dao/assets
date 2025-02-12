@@ -1,6 +1,6 @@
 <svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
     <rect fill="#F9F9F9" width="20" height="20"></rect>
-    <rect fill="#EC540933" width="20" height="20"></rect>
+    <rect fill="red" width="20" height="20"></rect>
     <g transform="matrix(0.0441,0,0,0.0441,3.165,3.165)">
         <mask id="sonic-logo-mask">
             <circle cx="154.995" cy="154.995" r="154.995" fill="white" />
