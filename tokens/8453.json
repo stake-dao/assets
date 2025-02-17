@@ -48,11 +48,11 @@
   {
     "id": "weth",
     "name": "Wrapped Ether",
-    "address": "0x6e53131F68a034873b6bFA15502aF094Ef0c5854",
+    "address": "0x4200000000000000000000000000000000000006",
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 8453,
-    "logoURI": "/assets/8453/0x6e53131f68a034873b6bfa15502af094ef0c5854.svg",
+    "logoURI": "/assets/8453/0x4200000000000000000000000000000000000006.svg",
     "tags": [],
     "extensions": {
       "coingeckoSlug": "weth"
@@ -129,11 +129,11 @@
   {
     "id": "usd+",
     "name": "USD+",
-    "address": "0xda3de145054ED30Ee937865D31B500505C4bDfe7",
+    "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
     "symbol": "USD+",
     "decimals": 18,
     "chainId": 8453,
-    "logoURI": "/assets/8453/0xda3de145054ed30ee937865d31b500505c4bdfe7.svg",
+    "logoURI": "/assets/8453/0xb79dd08ea68a908a97220c76d19a6aa9cbde4376.svg",
     "tags": [],
     "extensions": {}
   },
