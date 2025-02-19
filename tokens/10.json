@@ -1,0 +1,241 @@
+[
+    {
+        "id": "eth",
+        "name": "Ether",
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "symbol": "ETH",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "weth",
+        "name": "Wrapped Ether",
+        "address": "0x4200000000000000000000000000000000000006",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x4200000000000000000000000000000000000006.svg",
+        "tags": [],
+        "extensions": {
+          "coingeckoSlug": "weth"
+        }
+    },
+    {
+        "id": "crvusd",
+        "name": "Curve.Fi USD Stablecoin",
+        "address": "0xC52D7F23a2e460248Db6eE192Cb23dD12bDDCbf6",
+        "symbol": "crvUSD",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0xc52d7f23a2e460248db6ee192cb23dd12bddcbf6.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "crv",
+        "name": "Curve DAO Token",
+        "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
+        "symbol": "CRV",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x0994206dfe8de6ec6920ff4d779b0d950605fb53.svg",
+        "tags": [],
+        "extensions": {
+          "coingeckoSlug": "curve-dao-token"
+        }
+    },
+    {
+        "id": "op",
+        "name": "Optimism",
+        "address": "0x4200000000000000000000000000000000000042",
+        "symbol": "OP",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x4200000000000000000000000000000000000042.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "usdt",
+        "name": "Tether USD",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "usdc",
+        "name": "USD Coin",
+        "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x0b2c639c533813f4aa9d7837caf62653d097ff85.svg",
+        "tags": [],
+        "extensions": {
+          "coingeckoSlug": "usdc"
+        }
+    },
+    {
+        "id": "usdce",
+        "name": "USD Coin",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "symbol": "USDC.e",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x7f5c764cbc14f9669b88837ca1490cca17c31607.svg",
+        "tags": [],
+        "extensions": {
+          "coingeckoSlug": "usdc"
+        }
+    },
+    {
+        "id": "susd",
+        "name": "Synth sUSD",
+        "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+        "symbol": "sUSD",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "3crv",
+        "name": "Curve.fi DAI/USDC/USDT",
+        "address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+        "symbol": "3Crv",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x1337bedc9d22ecbe766df105c9623922a27963ec.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "mim",
+        "name": "Magic Internet Money",
+        "address": "0xB153FB3d196A8eB25522705560ac152eeEc57901",
+        "symbol": "MIM",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0xb153fb3d196a8eb25522705560ac152eeec57901.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "wbtc",
+        "name": "Wrapped BTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x68f180fcce6836688e9084f035309e29bf0a2095.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "tbtc",
+        "name": "tBTC v2",
+        "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+        "symbol": "tBTC",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "sbtc",
+        "name": "Synth sBTC",
+        "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+        "symbol": "sBTC",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x298b9b95708152ff6968aafd889c6586e9169f1d.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "seth",
+        "name": "Synth sETH",
+        "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+        "symbol": "sETH",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0xe405de8f52ba7559f9df3c368500b6e6ae6cee49.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "frax",
+        "name": "Frax",
+        "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x2e3d870790dc77a83dd1d18184acc7439a53f475.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "scrvusd",
+        "name": "Savings crvUSD",
+        "address": "0x289f635106d5b822A505b39AC237A0AE9189335B",
+        "symbol": "scrvUSD",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x289f635106d5b822a505b39ac237a0ae9189335b.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "usd+",
+        "name": "USD+",
+        "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+        "symbol": "USD+",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x73cb180bf0521828d8849bc8cf2b920918e23032.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "fraxbp",
+        "name": "Curve.fi Factory Plain Pool: FRAXBP",
+        "address": "0x29A3d66B30Bc4AD674A4FDAF27578B64f6afbFe7",
+        "symbol": "FRAXBP-f",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x29a3d66b30bc4ad674a4fdaf27578b64f6afbfe7.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "2btc",
+        "name": "2BTC",
+        "address": "0x1Dc5c0f8668a9F54ED922171d578011850ca0341",
+        "symbol": "2BTC-f",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x1dc5c0f8668a9f54ed922171d578011850ca0341.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "ust",
+        "name": "TerraUSD",
+        "address": "0xFB21B70922B9f6e3C6274BcD6CB1aa8A0fe20B80",
+        "symbol": "UST",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": "/assets/10/0xfb21b70922b9f6e3c6274bcd6cb1aa8a0fe20b80.svg",
+        "tags": [],
+        "extensions": {}
+    }
+]
