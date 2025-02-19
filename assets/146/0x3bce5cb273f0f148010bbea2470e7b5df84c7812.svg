@@ -1,0 +1,19 @@
+<svg fill="none" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+    
+    <path d="M300 600a300 300 0 100-600 300 300 0 000 600z" fill="url(#background)"/>
+    <g transform="matrix(16.2162162162,0,0,16.2162162162,0,0)">
+        <path d="M18.4819 26.9663L23.6837 19.6409L18.4819 22.7107L13.2828 19.6409L18.4819 26.9663Z" fill="white"/>
+        <path opacity="0.1" d="M18.4813 26.9663L23.6831 19.6409L18.4813 22.7107V26.9663Z" fill="#0074F0"/>
+        <path d="M18.4657 21.7386L23.6934 18.6631L18.4657 10.0286L13.238 18.6631L18.4657 21.7386Z" fill="url(#paint2_linear_2708_2054)"/>
+        <path d="M18.4657 21.7386L23.6934 18.6631L18.4657 10.0286L13.238 18.6631L18.4657 21.7386Z" fill="white"/>
+        <path opacity="0.1" d="M18.4659 21.7384L13.2382 18.6631L18.4659 10.0286V21.7384Z" fill="#0074F0"/>
+        <path opacity="0.1" d="M18.4657 21.7386V16.2123L13.238 18.6631L18.4657 21.7386Z" fill="#0074F0"/>
+        <path opacity="0.1" d="M18.4661 21.7386V16.2123L23.6938 18.6631L18.4661 21.7386Z" fill="#0074F0"/>
+    </g>    
+    <defs>
+        <radialGradient id="background" cx="0" cy="0" gradientTransform="rotate(54.2 -42.3 263.4) scale(497.082)" gradientUnits="userSpaceOnUse" r="1">
+            <stop offset="0" stop-color="#A866E4"/>
+            <stop offset="1" stop-color="#7E8CDA"/>
+        </radialGradient>
+    </defs>
+</svg>

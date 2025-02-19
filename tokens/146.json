@@ -57,5 +57,16 @@
         "extensions": {
             "coingeckoSlug": "weth"
         }
+    },
+    {
+        "id": "sceth",
+        "name": "Sonic ETH",
+        "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
+        "symbol": "scETH",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "/assets/146/0x3bce5cb273f0f148010bbea2470e7b5df84c7812.svg",
+        "tags": [],
+        "extensions": {}
     }
 ]
