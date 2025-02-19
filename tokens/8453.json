@@ -180,5 +180,16 @@
     "logoURI": "/assets/8453/0xdbfefd2e8460a6ee4955a68582f85708baea60a3.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "gho",
+    "name": "Gho Token",
+    "address": "0x6Bb7a212910682DCFdbd5BCBb3e28FB4E8da10Ee",
+    "symbol": "GHO",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "/assets/8453/0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
