@@ -237,5 +237,29 @@
         "logoURI": "/assets/10/0xfb21b70922b9f6e3c6274bcd6cb1aa8a0fe20b80.svg",
         "tags": [],
         "extensions": {}
+    },
+    {
+        "id": "dai",
+        "name": "Dai Stablecoin",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "wsteth",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+        "symbol": "wstETH",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "/assets/10/0x1f32b1c2345538c0c6f582fcb022739c4a194ebb.svg",
+        "tags": [],
+        "extensions": {
+          "coingeckoSlug": "wrapped-steth"
+        }
     }
 ]
