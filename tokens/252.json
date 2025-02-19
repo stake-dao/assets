@@ -165,5 +165,119 @@
     "logoURI": "/assets/252/0xfc00000000000000000000000000000000000006.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "usdc",
+    "name": "USD Coin",
+    "address": "0xDcc0F2D8F90FDe85b10aC1c8Ab57dc0AE946A543",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 252,
+    "logoURI": "/assets/252/0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543.svg",
+    "tags": [],
+    "extensions": {
+      "coingeckoSlug": "usdc"
+    }
+  },
+  {
+    "id": "scrvusd",
+    "name": "Savings crvUSD",
+    "address": "0xaB94C721040b33aA8b0b4D159Da9878e2a836Ed0",
+    "symbol": "scrvUSD",
+    "decimals": 18,
+    "chainId": 252,
+    "logoURI": "/assets/252/0xab94c721040b33aa8b0b4d159da9878e2a836ed0.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usdt",
+    "name": "Tether USD",
+    "address": "0x4d15EA9C2573ADDAeD814e48C148b5262694646A",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 252,
+    "logoURI": "/assets/252/0x4d15ea9c2573addaed814e48c148b5262694646a.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "dai",
+    "name": "Dai Stablecoin",
+    "address": "0xf6a011fAC307f55Cd4bA8e43b8b93f39808DdaA9",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 252,
+    "logoURI": "/assets/252/0xf6a011fac307f55cd4ba8e43b8b93f39808ddaa9.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "pyusd",
+    "name": "PayPal USD",
+    "address": "0xfb1520DbDc9230ef5dD5e6fd3Bbb6647B570E190",
+    "symbol": "PYUSD",
+    "decimals": 6,
+    "chainId": 252,
+    "logoURI": "/assets/252/0xfb1520dbdc9230ef5dd5e6fd3bbb6647b570e190.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "pxeth",
+    "name": "Pirex Ether",
+    "address": "0x58adE43A276ddF3e101941571eDe398a32492Ed7",
+    "symbol": "pxETH",
+    "decimals": 18,
+    "chainId": 252,
+    "logoURI": "/assets/252/0x58ade43a276ddf3e101941571ede398a32492ed7.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "crv",
+    "name": "Curve DAO Token",
+    "address": "0x331B9182088e2A7d6D3Fe4742AbA1fB231aEcc56",
+    "symbol": "CRV",
+    "decimals": 18,
+    "chainId": 252,
+    "logoURI": "/assets/252/0x331b9182088e2a7d6d3fe4742aba1fb231aecc56.svg",
+    "tags": [],
+    "extensions": {
+      "coingeckoSlug": "curve-dao-token"
+    }
+  },
+  {
+    "id": "dusd",
+    "name": "dTRINITY USD",
+    "address": "0x788D96f655735f52c676A133f4dFC53cEC614d4A",
+    "symbol": "dUSD",
+    "decimals": 6,
+    "chainId": 252,
+    "logoURI": "/assets/252/0x788D96f655735f52c676A133f4dFC53cEC614d4A.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "squid",
+    "name": "Leviathan Points",
+    "address": "0x6e58089d8E8f664823d26454f49A5A0f2fF697Fe",
+    "symbol": "SQUID",
+    "decimals": 18,
+    "chainId": 252,
+    "logoURI": "/assets/252/0x6e58089d8E8f664823d26454f49A5A0f2fF697Fe.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "insfrxeth",
+    "name": "Inception Restaked sfrxETH",
+    "address": "0xE162075a1C0Ac7e985253972bEcA5e83Da3BBaa4",
+    "symbol": "insfrxETH",
+    "decimals": 18,
+    "chainId": 252,
+    "logoURI": "/assets/252/0xe162075a1c0ac7e985253972beca5e83da3bbaa4.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
