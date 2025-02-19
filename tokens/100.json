@@ -1,0 +1,59 @@
+[
+    {
+        "id": "wxdai",
+        "name": "Wrapped XDAI",
+        "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+        "symbol": "wxDAI",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "/assets/100/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "usdt",
+        "name": "Tether USD",
+        "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 100,
+        "logoURI": "/assets/100/0x4ecaba5870353805a9f068101a40e0f32ed605c6.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "usdc",
+        "name": "USD Coin",
+        "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 100,
+        "logoURI": "/assets/100/0xddafbb505ad214d7b80b1f830fccc89b60fb7a83.svg",
+        "tags": [],
+        "extensions": {
+          "coingeckoSlug": "usdc"
+        }
+    },
+    {
+        "id": "crvusd",
+        "name": "Curve.Fi USD Stablecoin",
+        "address": "0xaBEf652195F98A91E490f047A5006B71c85f058d",
+        "symbol": "crvUSD",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "/assets/100/0xabef652195f98a91e490f047a5006b71c85f058d.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "sdai",
+        "name": "Savings xDai",
+        "address": "0xaf204776c7245bF4147c2612BF6e5972Ee483701",
+        "symbol": "sDAI",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "/assets/100/0xaf204776c7245bf4147c2612bf6e5972ee483701.svg",
+        "tags": [],
+        "extensions": {}
+      }
+]
