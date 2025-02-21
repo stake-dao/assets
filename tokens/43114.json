@@ -165,5 +165,16 @@
         "logoURI": "/assets/43114/0x6ab707aca953edaefbc4fd23ba73294241490620.svg",
         "tags": [],
         "extensions": {}
+    },
+    {
+        "id": "avaxl",
+        "name": "AVAXL",
+        "address": "0xe0237F9E2aaABd7Ffb8630BE5203D573a045Bca7",
+        "symbol": "AVAX-L",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0xe0237f9e2aaabd7ffb8630be5203d573a045bca7.svg",
+        "tags": [],
+        "extensions": {}
     }
 ]
