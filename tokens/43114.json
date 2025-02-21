@@ -1,0 +1,169 @@
+[
+    {
+        "id": "avax",
+        "name": "AVAX",
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "symbol": "AVAX",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "usdc",
+        "name": "USD Coin",
+        "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e.svg",
+        "tags": [],
+        "extensions": {
+          "coingeckoSlug": "usdc"
+        }
+    },
+    {
+        "id": "usdt",
+        "name": "Tether USD",
+        "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "ust",
+        "name": "TerraUSD",
+        "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+        "symbol": "UST",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0xb599c3590f42f8f995ecfa0f85d2980b76862fc1.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "avdai",
+        "name": "Aave Avalanche Market DAI",
+        "address": "0x47AFa96Cdc9fAb46904A55a6ad4bf6660B53c38a",
+        "symbol": "avDAI",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0x47afa96cdc9fab46904a55a6ad4bf6660b53c38a.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "avusdc",
+        "name": "Aave Avalanche Market USDC",
+        "address": "0x46A51127C3ce23fb7AB1DE06226147F446e4a857",
+        "symbol": "avUSDC",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0x46a51127c3ce23fb7ab1de06226147f446e4a857.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "avusdt",
+        "name": "Aave Avalanche Market USDT",
+        "address": "0x532E6537FEA298397212F09A61e03311686f548e",
+        "symbol": "avUSDT",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0x532e6537fea298397212f09a61e03311686f548e.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id" : "axlusdc",
+        "name": "Axelar Wrapped USDC",
+        "address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+        "symbol": "axlUSDC",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0xfab550568c688d5d8a52c7d794cb93edc26ec0ec.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "renbtc",
+        "name": "renBTC",
+        "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
+        "symbol": "renBTC",
+        "decimals": 8,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0xdbf31df14b66535af65aac99c32e9ea844e14501.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "avwbtc",
+        "name": "Aave Avalanche Market WBTC",
+        "address": "0x686bEF2417b6Dc32C50a3cBfbCC3bb60E1e9a15D",
+        "symbol": "avWBTC",
+        "decimals": 8,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "avweth",
+        "name": "Aave Avalanche Market WETH",
+        "address": "0x53f7c5869a859F0AeC3D334ee8B4Cf01E3492f21",
+        "symbol": "avWETH",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "aave3pool",
+        "name": "Curve.fi avDAI/avUSDC/avUSDT",
+        "address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+        "symbol": "avDAI/avUSDC/avUSDT",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0x1337bedc9d22ecbe766df105c9623922a27963ec.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "aavadai",
+        "name": "Aave Avalanche DAI",
+        "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+        "symbol": "aAvaDAI",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "aavausdc",
+        "name": "Aave Avalanche USDC",
+        "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+        "symbol": "aAvaUSDC",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0x625e7708f30ca75bfd92586e17077590c60eb4cd.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "aavausdt",
+        "name": "Aave Avalanche USDT",
+        "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+        "symbol": "aAvaUSDT",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "/assets/43114/0x6ab707aca953edaefbc4fd23ba73294241490620.svg",
+        "tags": [],
+        "extensions": {}
+    }
+]
