@@ -303,5 +303,16 @@
     "logoURI": "/assets/137/0x03a97594aa5ece130e2e956fc0ced2fea8ed8989.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "acrv",
+    "name": "AladdinDAO: Convex CRV",
+    "address": "0x89C90E480A39fBE3886bB5bD53ba5B1Acc69D4Fb",
+    "symbol": "aCRV",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "/assets/137/0x89c90e480a39fbe3886bb5bd53ba5b1acc69d4fb.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
