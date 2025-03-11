@@ -1,0 +1,35 @@
+[
+    {
+        "id": "eth",
+        "name": "Ether",
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "symbol": "ETH",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "/assets/59144/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "zero",
+        "name": "ZeroLend",
+        "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+        "symbol": "ZERO",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "/assets/59144/0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "sdzero",
+        "name": "Stake DAO ZERO",
+        "address": "0x930b866491549F6F5716CEA94723187e45e22ee5",
+        "symbol": "sdZERO",
+        "decimals": 18,
+        "chainId": 59144,
+        "logoURI": "/assets/59144/0x930b866491549f6f5716cea94723187e45e22ee5.svg",
+        "tags": [],
+        "extensions": {}
+    }
+]
