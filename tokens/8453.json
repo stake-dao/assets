@@ -191,5 +191,16 @@
     "logoURI": "/assets/8453/0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "sdspectra",
+    "name": "Stake DAO Spectra",
+    "address": "0x8e7801bAC71E92993f6924e7D767D7dbC5fCE0AE",
+    "symbol": "sdSPECTRA",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "/assets/8453/0x8e7801bac71e92993f6924e7d767d7dbc5fce0ae.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
