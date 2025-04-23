@@ -365,5 +365,16 @@
     "logoURI": "/assets/42161/0x4ac623237de0aa622b4fdf4da63cf97216371acf.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "eure",
+    "name": "Monerium EUR emoney",
+    "address": "0x0c06cCF38114ddfc35e07427B9424adcca9F44F8",
+    "symbol": "EURe",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "/assets/42161/0x0c06ccf38114ddfc35e07427b9424adcca9f44f8.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
