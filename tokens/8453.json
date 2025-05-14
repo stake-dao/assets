@@ -24,26 +24,26 @@
     "extensions": {}
   },
   {
-      "id": "usdc",
-      "name": "USD Coin",
-      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 8453,
-      "logoURI": "/assets/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg",
-      "tags": [],
-      "extensions": {}
+    "id": "usdc",
+    "name": "USD Coin",
+    "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 8453,
+    "logoURI": "/assets/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg",
+    "tags": [],
+    "extensions": {}
   },
   {
-      "id": "spectra",
-      "name": "Spectra",
-      "address": "0x64FCC3A02eeEba05Ef701b7eed066c6ebD5d4E51",
-      "symbol": "SPECTRA",
-      "decimals": 18,
-      "chainId": 8453,
-      "logoURI": "/assets/8453/0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51.svg",
-      "tags": [],
-      "extensions": {}
+    "id": "spectra",
+    "name": "Spectra",
+    "address": "0x64FCC3A02eeEba05Ef701b7eed066c6ebD5d4E51",
+    "symbol": "SPECTRA",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "/assets/8453/0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51.svg",
+    "tags": [],
+    "extensions": {}
   },
   {
     "id": "weth",
@@ -149,7 +149,7 @@
     "extensions": {}
   },
   {
-    "id" : "axlusdc",
+    "id": "axlusdc",
     "name": "Axelar Wrapped USDC",
     "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
     "symbol": "axlUSDC",
@@ -160,7 +160,7 @@
     "extensions": {}
   },
   {
-    "id" : "usdbc",
+    "id": "usdbc",
     "name": "USD Base Coin",
     "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
     "symbol": "USDbC",
@@ -171,7 +171,7 @@
     "extensions": {}
   },
   {
-    "id" : "superoethb",
+    "id": "superoethb",
     "name": "Super OETH",
     "address": "0xDBFeFD2e8460a6Ee4955A68582F85708BAEA60A3",
     "symbol": "superOETHb",
@@ -201,6 +201,8 @@
     "chainId": 8453,
     "logoURI": "/assets/8453/0x8e7801bac71e92993f6924e7d767d7dbc5fce0ae.svg",
     "tags": [],
-    "extensions": {}
+    "extensions": {
+      "underlying": "spectra"
+    }
   }
 ]
