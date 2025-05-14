@@ -200,7 +200,7 @@
     "decimals": 18,
     "chainId": 8453,
     "logoURI": "/assets/8453/0x8e7801bac71e92993f6924e7d767d7dbc5fce0ae.svg",
-    "tags": [],
+    "tags": ["sd-token"],
     "extensions": {
       "underlying": "spectra"
     }
