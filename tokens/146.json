@@ -90,5 +90,60 @@
     "logoURI": "/assets/146/0x5af79133999f7908953e94b7a5cf367740ebee35.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "frxusd",
+    "name": "Frax USD",
+    "address": "0x80eEDe496655fB9047Dd39d9f418D5483eD600DF",
+    "symbol": "frxUSD",
+    "decimals": 18,
+    "chainId": 146,
+    "logoURI": "/assets/146/0x80eede496655fb9047dd39d9f418d5483ed600df.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "frxeth",
+    "name": "Frax Ether",
+    "address": "0x43eDd7f3831B08fE70B7555DdD373c8Bf65A9050",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "chainId": 146,
+    "logoURI": "/assets/146/0x43edd7f3831b08fe70b7555ddd373c8bf65a9050.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "xfrxusd",
+    "name": "CrossCurve frxUSD",
+    "address": "0xf1232A1aB5661AbdD6E02c6D8Ac9940a23bB0b84",
+    "symbol": "xfrxUSD",
+    "decimals": 18,
+    "chainId": 146,
+    "logoURI": "/assets/146/0xf1232a1ab5661abdd6e02c6d8ac9940a23bb0b84.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "xfrxeth",
+    "name": "CrossCurve frxETH",
+    "address": "0x346704605C72d9F5f9F02D651E5A3dccE6964F3d",
+    "symbol": "xfrxETH",
+    "decimals": 18,
+    "chainId": 146,
+    "logoURI": "/assets/146/0x346704605c72d9f5f9f02d651e5a3dcce6964f3d.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "usdt",
+    "name": "Tether USD",
+    "address": "0x6047828DC181963Ba44974801ff68e538dA5EAf9",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 146,
+    "logoURI": "/assets/146/0x6047828dc181963ba44974801ff68e538da5eaf9.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
