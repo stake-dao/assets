@@ -145,5 +145,126 @@
     "logoURI": "/assets/146/0x6047828dc181963ba44974801ff68e538da5eaf9.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "sweth_ar",
+    "name": "sWETH_ar",
+    "address": "0x9959D2D758f897552eAD20C313be481308dB29b4",
+    "symbol": "sWETH_ar",
+    "decimals": 18,
+    "chainId": 146,
+    "logoURI": "/assets/146/0x9959d2d758f897552ead20c313be481308db29b4.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "susdc_arb",
+    "name": "sUSDC_arb",
+    "address": "0x54e858c116F3d6Bdf3C270f68CBa96313B286577",
+    "symbol": "sUSDC_arb",
+    "decimals": 6,
+    "chainId": 146,
+    "logoURI": "/assets/146/0x54e858c116f3d6bdf3c270f68cba96313b286577.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "sweth_ba",
+    "name": "sWETH_ba",
+    "address": "0x0D7fe3c8686108AEEfdca069d96E893A804c1Ad0",
+    "symbol": "sWETH_ba",
+    "decimals": 18,
+    "chainId": 146,
+    "logoURI": "/assets/146/0x0d7fe3c8686108aeefdca069d96e893a804c1ad0.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "susdc_ba",
+    "name": "sUSDC_ba",
+    "address": "0x53e510bc5dfCB363a2B34Cbf7B7cD1B0aD15642c",
+    "symbol": "sUSDC_ba",
+    "decimals": 6,
+    "chainId": 146,
+    "logoURI": "/assets/146/0x53e510bc5dfcb363a2b34cbf7b7cd1b0ad15642c.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "sweth_op",
+    "name": "sWETH_op",
+    "address": "0xe8B047624Ce75777BC4F724F2Bc8B5353cf4988A",
+    "symbol": "sWETH_op",
+    "decimals": 18,
+    "chainId": 146,
+    "logoURI": "/assets/146/0xe8b047624ce75777bc4f724f2bc8b5353cf4988a.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "susdt_op",
+    "name": "sUSDT_op",
+    "address": "0xd0b4799f3780193Fca7Bd7b5a035bdb1c75Fe41D",
+    "symbol": "sUSDT_op",
+    "decimals": 6,
+    "chainId": 146,
+    "logoURI": "/assets/146/0xd0b4799f3780193fca7bd7b5a035bdb1c75fe41d.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "sweth_p",
+    "name": "sWETH_p",
+    "address": "0x1640faeC20ca8fc0B0e77CCb2B4033869e5C9259",
+    "symbol": "sWETH_p",
+    "decimals": 18,
+    "chainId": 146,
+    "logoURI": "/assets/146/0x1640faec20ca8fc0b0e77ccb2b4033869e5c9259.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "susdt_p",
+    "name": "sUSDT_p",
+    "address": "0xf3bB10ea8A08c78645EF8e81ed62eF3923f04e75",
+    "symbol": "sUSDT_p",
+    "decimals": 6,
+    "chainId": 146,
+    "logoURI": "/assets/146/0xf3bb10ea8a08c78645ef8e81ed62ef3923f04e75.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "susdt_b",
+    "name": "sUSDT_b",
+    "address": "0x22677fdBDbF8648305a7f6CC409BD105b2f579f3",
+    "symbol": "sUSDT_b",
+    "decimals": 18,
+    "chainId": 146,
+    "logoURI": "/assets/146/0x22677fdbdbf8648305a7f6cc409bd105b2f579f3.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "sweth_e",
+    "name": "sWETH_e",
+    "address": "0x89B5D7a56faa04C00cc0a9c1608087642e36cAb0",
+    "symbol": "sWETH_e",
+    "decimals": 18,
+    "chainId": 146,
+    "logoURI": "/assets/146/0x89b5d7a56faa04c00cc0a9c1608087642e36cab0.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "susdt_eth",
+    "name": "sUSDT_eth",
+    "address": "0xCc17FB75EC3CAbc98f19E48943F264708f84D164",
+    "symbol": "sUSDT_eth",
+    "decimals": 6,
+    "chainId": 146,
+    "logoURI": "/assets/146/0xcc17fb75ec3cabc98f19e48943f264708f84d164.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
