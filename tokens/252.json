@@ -279,5 +279,16 @@
     "logoURI": "/assets/252/0xe162075a1c0ac7e985253972beca5e83da3bbaa4.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "squill",
+    "name": "Squid Pro Quo",
+    "address": "0x368eC3D7C755ABEA7D48B0C006D282a1abA2f898",
+    "symbol": "SQUILL",
+    "decimals": 18,
+    "chainId": 252,
+    "logoURI": "/assets/252/0x368ec3d7c755abea7d48b0c006d282a1aba2f898.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
