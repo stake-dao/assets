@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+    <rect width="600" height="600" fill="url(#paint0_radial_440_36)"  />
+    <g transform="matrix(0.2229604691,0,0,0.2229604691,-6,-25)">
+        <path d="M 683 1965 L 683 100 L 858.11 100 V 1965 L 682.81 1965.2 Z" fill="#152e51" />
+        <circle cx="770" cy="770" r="770" fill="#152e51" transform="translate(0 1960)" />
+    </g>
+    <defs>
+        <radialGradient id="paint0_radial_440_36" cx="0" cy="0" gradientTransform="rotate(54.2 -42.3 263.4) scale(497.082)" gradientUnits="userSpaceOnUse" r="1">
+            <stop stop-color="#888888"/>
+            <stop offset="1" stop-color="#dedede" />
+        </radialGradient>
+    </defs>
+</svg>

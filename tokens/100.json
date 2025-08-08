@@ -55,5 +55,16 @@
         "logoURI": "/assets/100/0xaf204776c7245bf4147c2612bf6e5972ee483701.svg",
         "tags": [],
         "extensions": {}
+      },
+    {
+        "id": "crv",
+        "name": "Curve DAO Token on xDai",
+        "address": "0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd",
+        "symbol": "CRV",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "/assets/100/0x712b3d230f3c1c19db860d80619288b1f0bdd0bd.svg",
+        "tags": [],
+        "extensions": {}
       }
 ]
