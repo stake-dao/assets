@@ -4818,426 +4818,424 @@
         "tags": [],
         "extensions": {}
     },
-    [
-        {
-            "id": "pWETH",
-            "name": "pWrapped Ether",
-            "address": {
-                "42161": "0x40e90e1db6ae6e31e3d0c713b00c9d73c4725fb3"
-            },
-            "symbol": "LaPoste WETH",
-            "decimals": 18,
-            "logoURI": "/assets/1/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.svg",
-            "tags": [],
-            "extensions": {}
+    {
+        "id": "pWETH",
+        "name": "pWrapped Ether",
+        "address": {
+            "42161": "0x40e90e1db6ae6e31e3d0c713b00c9d73c4725fb3"
         },
-        {
-            "id": "pUSDC",
-            "name": "pUSD Coin",
-            "address": {
-                "42161": "0xc8a096b7d583fc1cc4692563d61d41642ced8441"
-            },
-            "symbol": "LaPoste USDC",
-            "decimals": 6,
-            "logoURI": "/assets/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste WETH",
+        "decimals": 18,
+        "logoURI": "/assets/1/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pUSDC",
+        "name": "pUSD Coin",
+        "address": {
+            "42161": "0xc8a096b7d583fc1cc4692563d61d41642ced8441"
         },
-        {
-            "id": "pUSDT",
-            "name": "pTether USD",
-            "address": {
-                "42161": "0x255b2341842ba1388c287eabfa9d8b480411ca65"
-            },
-            "symbol": "LaPoste USDT",
-            "decimals": 6,
-            "logoURI": "/assets/1/0xdac17f958d2ee523a2206206994597c13d831ec7.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste USDC",
+        "decimals": 6,
+        "logoURI": "/assets/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pUSDT",
+        "name": "pTether USD",
+        "address": {
+            "42161": "0x255b2341842ba1388c287eabfa9d8b480411ca65"
         },
-        {
-            "id": "pSDT",
-            "name": "pStake DAO Token",
-            "address": {
-                "42161": "0x3f64602d79d80d3d9835417afc89bebb8e798d2e"
-            },
-            "symbol": "LaPoste SDT",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste USDT",
+        "decimals": 6,
+        "logoURI": "/assets/1/0xdac17f958d2ee523a2206206994597c13d831ec7.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pSDT",
+        "name": "pStake DAO Token",
+        "address": {
+            "42161": "0x3f64602d79d80d3d9835417afc89bebb8e798d2e"
         },
-        {
-            "id": "pCRV",
-            "name": "pCurve DAO Token",
-            "address": {
-                "42161": "0x210861082d018bf182463765b671ba72568f1b86"
-            },
-            "symbol": "LaPoste CRV",
-            "decimals": 18,
-            "logoURI": "/assets/1/0xd533a949740bb3306d119cc777fa900ba034cd52.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste SDT",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pCRV",
+        "name": "pCurve DAO Token",
+        "address": {
+            "42161": "0x210861082d018bf182463765b671ba72568f1b86"
         },
-        {
-            "id": "pCRVUSD",
-            "name": "pCurve.Fi USD Stablecoin",
-            "address": {
-                "42161": "0x446cb0a8821710427ae98377a1ee95213af67bb4"
-            },
-            "symbol": "LaPoste crvUSD",
-            "decimals": 18,
-            "logoURI": "/assets/1/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste CRV",
+        "decimals": 18,
+        "logoURI": "/assets/1/0xd533a949740bb3306d119cc777fa900ba034cd52.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pCRVUSD",
+        "name": "pCurve.Fi USD Stablecoin",
+        "address": {
+            "42161": "0x446cb0a8821710427ae98377a1ee95213af67bb4"
         },
-        {
-            "id": "pLDO",
-            "name": "pLido DAO Token",
-            "address": {
-                "42161": "0xc94b2b5c80790c1190487de01bbb850d32bf82e3"
-            },
-            "symbol": "LaPoste LDO",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x5a98fcbea516cf06857215779fd812ca3bef1b32.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste crvUSD",
+        "decimals": 18,
+        "logoURI": "/assets/1/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pLDO",
+        "name": "pLido DAO Token",
+        "address": {
+            "42161": "0xc94b2b5c80790c1190487de01bbb850d32bf82e3"
         },
-        {
-            "id": "pFXS",
-            "name": "pFrax Share",
-            "address": {
-                "42161": "0xfaee989ffa95033605567a0d2b7dbbbddd8597cc"
-            },
-            "symbol": "LaPoste FXS",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste LDO",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x5a98fcbea516cf06857215779fd812ca3bef1b32.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pFXS",
+        "name": "pFrax Share",
+        "address": {
+            "42161": "0xfaee989ffa95033605567a0d2b7dbbbddd8597cc"
         },
-        {
-            "id": "pMAV",
-            "name": "pMaverick Token",
-            "address": {
-                "42161": "0xdb37fdc1a6ef45635d6d6e44ace10dad5aa10b60"
-            },
-            "symbol": "LaPoste MAV",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x7448c7456a97769f6cd04f1e83a4a23ccdc46abd.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste FXS",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pMAV",
+        "name": "pMaverick Token",
+        "address": {
+            "42161": "0xdb37fdc1a6ef45635d6d6e44ace10dad5aa10b60"
         },
-        {
-            "id": "pSDMAV",
-            "name": "pStake DAO MAV",
-            "address": {
-                "42161": "0x9db3441727db816370b2f596b0ca11c992fc8de1"
-            },
-            "symbol": "LaPoste sdMAV",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x50687515e93c43964733282f9db8683f80bb02f9.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste MAV",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x7448c7456a97769f6cd04f1e83a4a23ccdc46abd.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pSDMAV",
+        "name": "pStake DAO MAV",
+        "address": {
+            "42161": "0x9db3441727db816370b2f596b0ca11c992fc8de1"
         },
-        {
-            "id": "pFXN",
-            "name": "pFXN Token",
-            "address": {
-                "42161": "0xf69903bb3082519979f72f5459ee92001a89adf3"
-            },
-            "symbol": "LaPoste FXN",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x365accfca291e7d3914637abf1f7635db165bb09.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste sdMAV",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x50687515e93c43964733282f9db8683f80bb02f9.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pFXN",
+        "name": "pFXN Token",
+        "address": {
+            "42161": "0xf69903bb3082519979f72f5459ee92001a89adf3"
         },
-        {
-            "id": "pSDFXN",
-            "name": "pStake DAO FXN",
-            "address": {
-                "42161": "0xdd5b1dd1d7c74478f9b4a06a0a06a165fe44ff6f"
-            },
-            "symbol": "LaPoste sdFXN",
-            "decimals": 18,
-            "logoURI": "/assets/1/0xe19d1c837b8a1c83a56cd9165b2c0256d39653ad.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste FXN",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x365accfca291e7d3914637abf1f7635db165bb09.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pSDFXN",
+        "name": "pStake DAO FXN",
+        "address": {
+            "42161": "0xdd5b1dd1d7c74478f9b4a06a0a06a165fe44ff6f"
         },
-        {
-            "id": "pOETH",
-            "name": "pOrigin Ether",
-            "address": {
-                "42161": "0xc640f9d8a37c05e203683283c5633279dd2b78e9"
-            },
-            "symbol": "LaPoste OETH",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste sdFXN",
+        "decimals": 18,
+        "logoURI": "/assets/1/0xe19d1c837b8a1c83a56cd9165b2c0256d39653ad.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pOETH",
+        "name": "pOrigin Ether",
+        "address": {
+            "42161": "0xc640f9d8a37c05e203683283c5633279dd2b78e9"
         },
-        {
-            "id": "pCVX",
-            "name": "pConvex Token",
-            "address": {
-                "42161": "0x58bf104a2ad220760533c2c65fb51471f6a554e3"
-            },
-            "symbol": "LaPoste CVX",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste OETH",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pCVX",
+        "name": "pConvex Token",
+        "address": {
+            "42161": "0x58bf104a2ad220760533c2c65fb51471f6a554e3"
         },
-        {
-            "id": "pCVG",
-            "name": "pConvergence",
-            "address": {
-                "42161": "0x9f8a551ca798d7bdcb09da075c727820683a37a0"
-            },
-            "symbol": "LaPoste CVG",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x97effb790f2fbb701d88f89db4521348a2b77be8.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste CVX",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pCVG",
+        "name": "pConvergence",
+        "address": {
+            "42161": "0x9f8a551ca798d7bdcb09da075c727820683a37a0"
         },
-        {
-            "id": "pGHO",
-            "name": "pGho Token",
-            "address": {
-                "42161": "0x38e56666b31ec64d9a7c89865c2cd403ef94c727"
-            },
-            "symbol": "LaPoste GHO",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste CVG",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x97effb790f2fbb701d88f89db4521348a2b77be8.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pGHO",
+        "name": "pGho Token",
+        "address": {
+            "42161": "0x38e56666b31ec64d9a7c89865c2cd403ef94c727"
         },
-        {
-            "id": "pZUN",
-            "name": "pZunami Token",
-            "address": {
-                "42161": "0xb831c05873637a316e1b4c2c990a732093e48f77"
-            },
-            "symbol": "LaPoste ZUN",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x6b5204b0be36771253cc38e88012e02b752f0f36.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste GHO",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pZUN",
+        "name": "pZunami Token",
+        "address": {
+            "42161": "0xb831c05873637a316e1b4c2c990a732093e48f77"
         },
-        {
-            "id": "pPAL",
-            "name": "pPaladin Token",
-            "address": {
-                "42161": "0xb81beccce13db93399db42c88e3a66ff4447825e"
-            },
-            "symbol": "LaPoste PAL",
-            "decimals": 18,
-            "logoURI": "/assets/1/0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste ZUN",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x6b5204b0be36771253cc38e88012e02b752f0f36.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pPAL",
+        "name": "pPaladin Token",
+        "address": {
+            "42161": "0xb81beccce13db93399db42c88e3a66ff4447825e"
         },
-        {
-            "id": "pINV",
-            "name": "pInverse DAO",
-            "address": {
-                "42161": "0xc7ebe756651e6a0efc4dc31e0a6142babaea4b2e"
-            },
-            "symbol": "LaPoste INV",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste PAL",
+        "decimals": 18,
+        "logoURI": "/assets/1/0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pINV",
+        "name": "pInverse DAO",
+        "address": {
+            "42161": "0xc7ebe756651e6a0efc4dc31e0a6142babaea4b2e"
         },
-        {
-            "id": "pALCX",
-            "name": "pAlchemix",
-            "address": {
-                "42161": "0xa928191fdb20e70956ad2eee7c0eb73ae729afed"
-            },
-            "symbol": "LaPoste ALCX",
-            "decimals": 18,
-            "logoURI": "/assets/1/0xdbdb4d16eda451d0503b854cf79d55697f90c8df.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste INV",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pALCX",
+        "name": "pAlchemix",
+        "address": {
+            "42161": "0xa928191fdb20e70956ad2eee7c0eb73ae729afed"
         },
-        {
-            "id": "pSPELL",
-            "name": "pSpell Token",
-            "address": {
-                "42161": "0xbb58816edc949d0fe50340bde876dc173ed0f666"
-            },
-            "symbol": "LaPoste SPELL",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x090185f2135308bad17527004364ebcc2d37e5f6.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste ALCX",
+        "decimals": 18,
+        "logoURI": "/assets/1/0xdbdb4d16eda451d0503b854cf79d55697f90c8df.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pSPELL",
+        "name": "pSpell Token",
+        "address": {
+            "42161": "0xbb58816edc949d0fe50340bde876dc173ed0f666"
         },
-        {
-            "id": "pOUSD",
-            "name": "pOrigin Dollar",
-            "address": {
-                "42161": "0x8d037f300c70a2194ad7db16d54c3a14fdc7b0a2"
-            },
-            "symbol": "LaPoste OUSD",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x2a8e1e676ec238d8a992307b495b45b3feaa5e86.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste SPELL",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x090185f2135308bad17527004364ebcc2d37e5f6.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pOUSD",
+        "name": "pOrigin Dollar",
+        "address": {
+            "42161": "0x8d037f300c70a2194ad7db16d54c3a14fdc7b0a2"
         },
-        {
-            "id": "pFXUSD",
-            "name": "pf(x) USD",
-            "address": {
-                "42161": "0x57d1bcdc1dff5cbc35602b168f88ce7da6af3c50"
-            },
-            "symbol": "LaPoste fxUSD",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x085780639cc2cacd35e474e71f4d000e2405d8f6.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste OUSD",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x2a8e1e676ec238d8a992307b495b45b3feaa5e86.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pFXUSD",
+        "name": "pf(x) USD",
+        "address": {
+            "42161": "0x57d1bcdc1dff5cbc35602b168f88ce7da6af3c50"
         },
-        {
-            "id": "pSCRVUSD",
-            "name": "pSavings crvUSD",
-            "address": {
-                "42161": "0x45bc0e6fb06b8eea86e02229c8c42264a66ab827"
-            },
-            "symbol": "LaPoste scrvUSD",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x0655977feb2f289a4ab78af67bab0d17aab84367.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste fxUSD",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x085780639cc2cacd35e474e71f4d000e2405d8f6.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pSCRVUSD",
+        "name": "pSavings crvUSD",
+        "address": {
+            "42161": "0x45bc0e6fb06b8eea86e02229c8c42264a66ab827"
         },
-        {
-            "id": "pGEMACH",
-            "name": "pGemach",
-            "address": {
-                "42161": "0xd72ea81700d157db7dcaec907ae0f2dac16096b8"
-            },
-            "symbol": "LaPoste GMAC",
-            "decimals": 18,
-            "logoURI": "/assets/1/0xd96e84ddbc7cbe1d73c55b6fe8c64f3a6550deea.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste scrvUSD",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x0655977feb2f289a4ab78af67bab0d17aab84367.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pGEMACH",
+        "name": "pGemach",
+        "address": {
+            "42161": "0xd72ea81700d157db7dcaec907ae0f2dac16096b8"
         },
-        {
-            "id": "pSTADER",
-            "name": "pStader",
-            "address": {
-                "42161": "0xa16bd0c08de4f0505ca44fdda4fc6828e1abe199"
-            },
-            "symbol": "LaPoste SD",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x30d20208d987713f46dfd34ef128bb16c404d10f.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste GMAC",
+        "decimals": 18,
+        "logoURI": "/assets/1/0xd96e84ddbc7cbe1d73c55b6fe8c64f3a6550deea.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pSTADER",
+        "name": "pStader",
+        "address": {
+            "42161": "0xa16bd0c08de4f0505ca44fdda4fc6828e1abe199"
         },
-        {
-            "id": "pOGN",
-            "name": "pOrigin Token",
-            "address": {
-                "42161": "0x9243a659a67d2edae7edef1adadccd5dab3b0fda"
-            },
-            "symbol": "LaPoste OGN",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste SD",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x30d20208d987713f46dfd34ef128bb16c404d10f.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pOGN",
+        "name": "pOrigin Token",
+        "address": {
+            "42161": "0x9243a659a67d2edae7edef1adadccd5dab3b0fda"
         },
-        {
-            "id": "pZCHF",
-            "name": "pFrankencoin",
-            "address": {
-                "42161": "0x915d12eb5b5cf64d79ad205dd3e287a6f4b73657"
-            },
-            "symbol": "LaPoste ZCHF",
-            "decimals": 18,
-            "logoURI": "/assets/1/0xb58e61c3098d85632df34eecfb899a1ed80921cb.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste OGN",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pZCHF",
+        "name": "pFrankencoin",
+        "address": {
+            "42161": "0x915d12eb5b5cf64d79ad205dd3e287a6f4b73657"
         },
-        {
-            "id": "pASF",
-            "name": "pAsymmetry Finance Token",
-            "address": {
-                "42161": "0x20e312857446efe57876cb65f5636e39f9afab02"
-            },
-            "symbol": "LaPoste ASF",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x59a529070fbb61e6d6c91f952ccb7f35c34cf8aa.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste ZCHF",
+        "decimals": 18,
+        "logoURI": "/assets/1/0xb58e61c3098d85632df34eecfb899a1ed80921cb.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pASF",
+        "name": "pAsymmetry Finance Token",
+        "address": {
+            "42161": "0x20e312857446efe57876cb65f5636e39f9afab02"
         },
-        {
-            "id": "pRSUP",
-            "name": "pResupply",
-            "address": {
-                "42161": "0x2a68ae24fff0b64305eeb867935fa1af6344c2a9"
-            },
-            "symbol": "LaPoste RSUP",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x419905009e4656fdc02418c7df35b1e61ed5f726.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste ASF",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x59a529070fbb61e6d6c91f952ccb7f35c34cf8aa.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pRSUP",
+        "name": "pResupply",
+        "address": {
+            "42161": "0x2a68ae24fff0b64305eeb867935fa1af6344c2a9"
         },
-        {
-            "id": "pYND",
-            "name": "pYieldNest",
-            "address": {
-                "42161": "0x4addfb3a4cf77861cb46ca9353d0a25f8c81ca61"
-            },
-            "symbol": "LaPoste YND",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x7159cc276d7d17ab4b3beb19959e1f39368a45ba.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste RSUP",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x419905009e4656fdc02418c7df35b1e61ed5f726.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pYND",
+        "name": "pYieldNest",
+        "address": {
+            "42161": "0x4addfb3a4cf77861cb46ca9353d0a25f8c81ca61"
         },
-        {
-            "id": "pUSDF",
-            "name": "pFalcon USD",
-            "address": {
-                "42161": "0xac73d9f764fedb67fa37f33e418518a7a1138f6a"
-            },
-            "symbol": "LaPoste USDf",
-            "decimals": 18,
-            "logoURI": "/assets/1/0xfa2b947eec368f42195f24f36d2af29f7c24cec2.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste YND",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x7159cc276d7d17ab4b3beb19959e1f39368a45ba.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pUSDF",
+        "name": "pFalcon USD",
+        "address": {
+            "42161": "0xac73d9f764fedb67fa37f33e418518a7a1138f6a"
         },
-        {
-            "id": "pTACIOU",
-            "name": "pTAC IOU",
-            "address": {
-                "42161": "0xf4513a809d4086ddbb28c52c3b7ae8f2d2825cce"
-            },
-            "symbol": "LaPoste tacIOU",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x4df454443d6e9a888e9b1571b2375e8ab4118d9d.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste USDf",
+        "decimals": 18,
+        "logoURI": "/assets/1/0xfa2b947eec368f42195f24f36d2af29f7c24cec2.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pTACIOU",
+        "name": "pTAC IOU",
+        "address": {
+            "42161": "0xf4513a809d4086ddbb28c52c3b7ae8f2d2825cce"
         },
-        {
-            "id": "pEBUSD",
-            "name": "pebUSD Stablecoin",
-            "address": {
-                "42161": "0x8f94f0d0140b7bab3916775f128f023b5834dde4"
-            },
-            "symbol": "LaPoste ebUSD",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x09fd37d9aa613789c517e76df1c53aece2b60df4.svg",
-            "tags": [],
-            "extensions": {}
+        "symbol": "LaPoste tacIOU",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x4df454443d6e9a888e9b1571b2375e8ab4118d9d.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pEBUSD",
+        "name": "pebUSD Stablecoin",
+        "address": {
+            "42161": "0x8f94f0d0140b7bab3916775f128f023b5834dde4"
         },
-        {
-            "id": "pUSDAF",
-            "name": "pUSDaf Stablecoin",
-            "address": {
-                "42161": "0xb5154a49508fb1406ce0b1ce367bcb1f636b90b7"
-            },
-            "symbol": "LaPoste USDaf",
-            "decimals": 18,
-            "logoURI": "/assets/1/0x9cf12ccd6020b6888e4d4c4e4c7aca33c1eb91f8.svg",
-            "tags": [],
-            "extensions": {}
-        }
-    ]
+        "symbol": "LaPoste ebUSD",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x09fd37d9aa613789c517e76df1c53aece2b60df4.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
+        "id": "pUSDAF",
+        "name": "pUSDaf Stablecoin",
+        "address": {
+            "42161": "0xb5154a49508fb1406ce0b1ce367bcb1f636b90b7"
+        },
+        "symbol": "LaPoste USDaf",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x9cf12ccd6020b6888e4d4c4e4c7aca33c1eb91f8.svg",
+        "tags": [],
+        "extensions": {}
+    }
 ]
