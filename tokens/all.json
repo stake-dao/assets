@@ -3144,6 +3144,18 @@
         "extensions": {}
     },
     {
+        "id": "sreusd",
+        "name": "Savings reUSD",
+        "address": {
+            "1": "0x557AB1e003951A73c12D16F0fEA8490E39C33C35"
+        },
+        "symbol": "sreUSD",
+        "decimals": 18,
+        "logoURI": "/assets/1/0x557ab1e003951a73c12d16f0fea8490e39c33c35.svg",
+        "tags": [],
+        "extensions": {}
+    },
+    {
         "id": "sfrxusd",
         "name": "Staked Frax USD",
         "address": {
