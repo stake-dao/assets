@@ -5254,11 +5254,23 @@
     "id": "mezo-usd",
     "name": "Mezo USD",
     "address": {
-      "1": "0xdd468a1ddc392dcdbef6db6e34e89aa338f9f186"
+      "1": "0xdD468A1DDc392dcdbEf6db6e34E89AA338F9F186"
     },
     "symbol": "MUSD",
     "decimals": 18,
     "logoURI": "/assets/1/0xdd468a1ddc392dcdbef6db6e34e89aa338f9f186.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "crv2pool",
+    "name": "Curve.fi Strategic USD Reserves",
+    "address": {
+      "1": "0x4f493B7dE8aAC7d55F71853688b1F7C8F0243C85"
+    },
+    "symbol": "crv2pool",
+    "decimals": 18,
+    "logoURI": "/assets/1/0x4f493b7de8aac7d55f71853688b1f7c8f0243c85.svg",
     "tags": [],
     "extensions": {}
   }
