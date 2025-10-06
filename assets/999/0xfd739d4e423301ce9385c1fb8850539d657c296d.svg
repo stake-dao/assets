@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" fill="none">
+    <path d="M300 600C465.685 600 600 465.685 600 300C600 134.315 465.685 0 300 0C134.315 0 0 134.315 0 300C0 465.685 134.315 600 300 600Z" fill="url(#background-gradient)"/>
+    <circle cx="300" cy="300" r="250" fill='none' stroke="#c9c9c9" stroke-width="10"/>
+    <circle cx="300" cy="300" r="290" fill="none" stroke="#49AAC7" stroke-width="20"/>
+    <g transform="matrix(2.5,0,0,2.5,120,120)">
+        <path xmlns="http://www.w3.org/2000/svg" d="M144 71.6991C144 119.306 114.866 134.582 99.5156 120.98C86.8804 109.889 83.1211 86.4521 64.116 84.0456C39.9942 81.0113 37.9057 113.133 22.0334 113.133C3.5504 113.133 0 86.2428 0 72.4315C0 58.3063 3.96809 39.0542 19.736 39.0542C38.1146 39.0542 39.1588 66.5722 62.132 65.1073C85.0007 63.5379 85.4184 34.8689 100.247 22.6271C113.195 12.0593 144 23.4641 144 71.6991Z" fill="#49AAC7"/>    
+    </g>
+    <defs>
+        <radialGradient id="background-gradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(196 143.5) rotate(54.1675) scale(497.082)">
+            <stop stop-color="#323638"/>
+            <stop offset="1"/>
+        </radialGradient>
+    </defs>
+</svg>

@@ -4819,6 +4819,42 @@
     "extensions": {}
   },
   {
+    "id": "whype",
+    "name": "Wrapped Hype",
+    "address": {
+      "999": "0x5555555555555555555555555555555555555555"
+    },
+    "symbol": "WHYPE",
+    "decimals": 18,
+    "logoURI": "/assets/999/0x5555555555555555555555555555555555555555.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "sthype",
+    "name": "Staked Hype",
+    "address": {
+      "999": "0xfFaa4a3D97fE9107Cef8a3F48c069F577Ff76cC1"
+    },
+    "symbol": "stHYPE",
+    "decimals": 18,
+    "logoURI": "/assets/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "khype",
+    "name": "Kinetiq Staked Hype",
+    "address": {
+      "999": "0xfD739d4e423301CE9385c1fb8850539D657C296D"
+    },
+    "symbol": "kHYPE",
+    "decimals": 18,
+    "logoURI": "/assets/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
     "id": "lhype",
     "name": "Looped Hype",
     "address": {
