@@ -598,6 +598,7 @@
     "id": "wfrax",
     "name": "Wrapped Frax",
     "address": {
+      "1": "0x04ACaF8D2865c0714F79da09645C13FD2888977f",
       "252": "0xFc00000000000000000000000000000000000002"
     },
     "symbol": "WFRAX",
