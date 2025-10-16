@@ -4880,6 +4880,18 @@
     "extensions": {}
   },
   {
+    "id": "loop",
+    "name": "Looping Collective",
+    "address": {
+      "999": "0x00fDBc53719604D924226215bc871D55e40a1009"
+    },
+    "symbol": "LOOP",
+    "decimals": 18,
+    "logoURI": "/assets/999/0x00fdbc53719604d924226215bc871d55e40a1009.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
     "id": "pWETH",
     "name": "pWrapped Ether",
     "address": {
