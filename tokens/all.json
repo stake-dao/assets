@@ -5334,5 +5334,17 @@
     "logoURI": "/assets/1/0x4f493b7de8aac7d55f71853688b1f7c8f0243c85.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "yb",
+    "name": "Yield Basis",
+    "address": {
+      "1": "0x01791F726B4103694969820be083196cC7c045fF"
+    },
+    "symbol": "YB",
+    "decimals": 18,
+    "logoURI": "/assets/1/0x01791f726b4103694969820be083196cc7c045ff.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
