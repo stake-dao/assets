@@ -67,6 +67,7 @@
       "8453": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "42161": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
       "42220": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+      "42793": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
       "43114": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
     },
     "symbol": "USDC",
@@ -101,6 +102,7 @@
       "252": "0x4d15EA9C2573ADDAeD814e48C148b5262694646A",
       "42161": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
       "42220": "0x617f3112bf5397D0467D315cC709EF968D9ba546",
+      "42793": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
       "43114": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7"
     },
     "symbol": "USDT",
@@ -5344,6 +5346,18 @@
     "symbol": "YB",
     "decimals": 18,
     "logoURI": "/assets/1/0x01791f726b4103694969820be083196cc7c045ff.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "mmev",
+    "name": "Midas MEV",
+    "address": {
+      "42793": "0x5542F82389b76C23f5848268893234d8A63fd5c8"
+    },
+    "symbol": "mMEV",
+    "decimals": 18,
+    "logoURI": "/assets/42793/0x5542f82389b76c23f5848268893234d8a63fd5c8.svg",
     "tags": [],
     "extensions": {}
   }
