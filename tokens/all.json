@@ -5360,5 +5360,17 @@
     "logoURI": "/assets/42793/0x5542f82389b76c23f5848268893234d8a63fd5c8.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "usdu",
+    "name": "USDU",
+    "address": {
+      "1": "0xdde3eC717f220Fc6A29D6a4Be73F91DA5b718e55"
+    },
+    "symbol": "USDU",
+    "decimals": 18,
+    "logoURI": "/assets/1/0xdde3ec717f220fc6a29d6a4be73f91da5b718e55.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
