@@ -5350,6 +5350,20 @@
     "extensions": {}
   },
   {
+    "id": "sdyb",
+    "name": "Stake DAO YieldBasis Token",
+    "address": {
+      "1": "0x0c057598dcE1891688829581f890DD2a3685a43f"
+    },
+    "symbol": "sdYB",
+    "decimals": 18,
+    "logoURI": "/assets/1/0x0c057598dce1891688829581f890dd2a3685a43f.svg",
+    "tags": ["sd-token"],
+    "extensions": {
+      "underlying": "yb"
+    }
+  },
+  {
     "id": "mmev",
     "name": "Midas MEV",
     "address": {
