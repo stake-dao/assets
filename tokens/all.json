@@ -5386,5 +5386,17 @@
     "logoURI": "/assets/1/0xdde3ec717f220fc6a29d6a4be73f91da5b718e55.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "uspd",
+    "name": "United States Permissionless Dollar",
+    "address": {
+      "1": "0x476ef9ac6D8673E220d0E8BC0a810C2Dc6A2AA84"
+    },
+    "symbol": "USPD",
+    "decimals": 18,
+    "logoURI": "/assets/1/0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
