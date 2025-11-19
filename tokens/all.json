@@ -5398,5 +5398,41 @@
     "logoURI": "/assets/1/0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84.svg",
     "tags": [],
     "extensions": {}
+  },
+  {
+    "id": "dialectic-usd",
+    "name": "Dialectic USD",
+    "address": {
+      "1": "0x1e33E98aF620F1D563fcD3cfd3C75acE841204ef"
+    },
+    "symbol": "DUSD",
+    "decimals": 18,
+    "logoURI": "/assets/1/0x1e33e98af620f1d563fcd3cfd3c75ace841204ef.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "dialectic-eth",
+    "name": "Dialectic ETH",
+    "address": {
+      "1": "0x871aB8E36CaE9AF35c6A3488B049965233DeB7ed"
+    },
+    "symbol": "DETH",
+    "decimals": 18,
+    "logoURI": "/assets/1/0x871ab8e36cae9af35c6a3488b049965233deb7ed.svg",
+    "tags": [],
+    "extensions": {}
+  },
+  {
+    "id": "dialectic-btc",
+    "name": "Dialectic BTC",
+    "address": {
+      "1": "0x972966bCC17f7d818De4F27Dc146Ef539c231BdF"
+    },
+    "symbol": "DBIT",
+    "decimals": 18,
+    "logoURI": "/assets/1/0x972966bcc17f7d818de4f27dc146ef539c231bdf.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
