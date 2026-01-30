@@ -65,7 +65,7 @@ const addToken = async ({ chainId, address }: { chainId: number; address: Addres
       address: { [chainId]: address },
       symbol,
       decimals,
-      logoURI: `/assets/${chainId}/${address}.svg`,
+      logoURI: `/assets/${chainId}/${address.toLowerCase()}.svg`,
       tags: [],
       extensions: {},
     })
