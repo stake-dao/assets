@@ -1,0 +1,16 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "scripts": {
+    "add-token": "cross-env NODE_PATH=. tsx scripts/add-token.ts"
+  },
+  "packageManager": "pnpm@10.28.1",
+  "devDependencies": {
+    "cross-env": "^10.1.0",
+    "tsx": "^4.21.0"
+  },
+  "dependencies": {
+    "@types/node": "^25.1.0",
+    "viem": "^2.45.1"
+  }
+}
