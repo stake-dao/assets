@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
     <circle cx="25" cy="25" r="25" fill="#A5C4DA"/>
     <circle cx="25" cy="25" r="25" fill="url(#a)" fill-opacity=".3" />
-    <g transform="translate(14,10)">
+    <g transform="scale(1.5) translate(5.5,3.5)">
         <path d="M11.0058 15.0725V0.929688L5.11719 12.1835L11.026 15.0725H11.0058Z" fill="url(#paint19_linear_4830_67548)"/>
         <path d="M11.0049 15.0725V0.929688L16.9136 12.1936L11.0049 15.0725Z" fill="url(#paint20_linear_4830_67548)"/>
         <path d="M11.0053 25.0779L1.00977 19.9744L11.0053 15.0723V25.0779Z" fill="url(#paint21_linear_4830_67548)"/>
