@@ -1,0 +1,35 @@
+name: Add Token
+
+on:
+  workflow_dispatch:
+    inputs:
+      chainId:
+        description: 'Chain ID'
+        required: true
+        type: number
+      address:
+        description: 'Token address'
+        required: true
+        type: string
+
+jobs:
+  add-token:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Run add-token script
+        run: pnpm add-token ${{ inputs.chainId }} ${{ inputs.address }}
