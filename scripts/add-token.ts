@@ -7,7 +7,7 @@
  *   pnpm add-token 1 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
  */
 
-import { Address, createPublicClient, erc20Abi, http, isAddress } from 'viem'
+import { Address, checksumAddress, createPublicClient, erc20Abi, http, isAddress } from 'viem'
 import { getChain, readFile, RPC, usageAndExit, writeFile } from './utils'
 import { writeFileSync } from 'node:fs'
 
@@ -51,7 +51,7 @@ const addToken = async ({ chainId, address }: { chainId: number; address: Addres
     allTokens[otherChainTokenIndex] = {
       id: otherChainToken.id,
       name: otherChainToken.name,
-      address: { ...otherChainToken.address, [chainId]: address },
+      address: { ...otherChainToken.address, [chainId]: checksumAddress(address, chainId) },
       symbol: otherChainToken.symbol,
       decimals: otherChainToken.decimals,
       logoURI: otherChainToken.logoURI,
@@ -62,7 +62,7 @@ const addToken = async ({ chainId, address }: { chainId: number; address: Addres
     allTokens.push({
       id: symbol!.toLowerCase(),
       name,
-      address: { [chainId]: address },
+      address: { [chainId]: checksumAddress(address, chainId) },
       symbol,
       decimals,
       logoURI: `/assets/${chainId}/${address.toLowerCase()}.svg`,
