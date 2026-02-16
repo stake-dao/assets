@@ -33,3 +33,13 @@ jobs:
 
       - name: Run add-token script
         run: pnpm add-token ${{ inputs.chainId }} ${{ inputs.address }}
+
+      - name: Commit and push if changes found
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Stake DAO API update"
+          git pull origin main --ff
+          git add tokens/all.json
+          git commit -m "$(date +"%Y-%m-%d %H:%M:%S"): Added ${{ inputs.address }} on ${{ inputs.chainId }}"
+          git push
+        shell: bash
