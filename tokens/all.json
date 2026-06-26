@@ -5376,5 +5376,15 @@
     "logoURI": "/assets/1/0x63d74d22e689c715a04f2c13962b1f77f443d35b.svg",
     "tags": [],
     "extensions": { "coingeckoId": "alto-dusd" }
+  },
+  {
+    "id": "3jane-usd3",
+    "name": "USD3",
+    "address": { "1": "0x056B269Eb1f75477a8666ae8C7fE01b64dD55eCc" },
+    "symbol": "USD3",
+    "decimals": 6,
+    "logoURI": "/assets/1/0x056b269eb1f75477a8666ae8c7fe01b64dd55ecc.svg",
+    "tags": [],
+    "extensions": {}
   }
 ]
